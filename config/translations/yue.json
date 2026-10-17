@@ -1,0 +1,31 @@
+{
+  "banner": {
+    "title": "我哋重視你嘅私隱",
+    "text": "我哋會使用 Cookie 同類似技術。必要 Cookie 用嚟確保網站正常運作。經你同意，我哋亦會使用可選 Cookie 嚟提供功能、進行分析同市場推廣。你可以全部接受、全部拒絕，或者按類別揀，亦可以隨時改變主意。",
+    "acceptAll": "全部接受",
+    "rejectAll": "全部拒絕",
+    "customize": "自訂",
+    "privacyPolicy": "私隱政策",
+    "cookiePolicy": "Cookie 政策"
+  },
+  "preferences": {
+    "title": "Cookie 偏好設定",
+    "text": "請揀你允許嘅可選類別。必要 Cookie 唔可以關閉，因為冇佢哋網站就無法運作。",
+    "save": "儲存偏好設定",
+    "acceptAll": "全部接受",
+    "rejectAll": "全部拒絕",
+    "close": "關閉",
+    "alwaysActive": "一直啟用",
+    "on": "開",
+    "off": "關"
+  },
+  "categories": {
+    "necessary": { "title": "必要", "description": "用於保安、負載平衡，以及記住呢個同意選擇等基本功能。" },
+    "functional": { "title": "功能", "description": "記住語言或地區等偏好設定，並啟用嵌入式功能。" },
+    "analytics": { "title": "分析", "description": "幫助我哋了解網站嘅使用情況，以便改善。" },
+    "marketing": { "title": "市場推廣", "description": "用於衡量同個人化跨網站嘅廣告。" }
+  },
+  "reopen": "Cookie 偏好設定",
+  "blockedContent": "喺你允許「{category}」類別之前，呢個內容已被攔截。",
+  "allowContent": "允許並顯示"
+}

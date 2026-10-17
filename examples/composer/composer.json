@@ -1,0 +1,12 @@
+{
+    "name": "example/open-consent-demo",
+    "description": "Using seoultra/open-consent in a plain PHP app",
+    "type": "project",
+    "license": "GPL-2.0-or-later",
+    "repositories": [{ "type": "path", "url": "../.." }],
+    "require": { "php": ">=8.1", "seoultra/open-consent": "*@dev" },
+    "scripts": {
+        "post-install-cmd": "@php -r \"copy('vendor/seoultra/open-consent/dist/open-consent.js', 'public/open-consent.js');\"",
+        "post-update-cmd": "@php -r \"copy('vendor/seoultra/open-consent/dist/open-consent.js', 'public/open-consent.js');\""
+    }
+}

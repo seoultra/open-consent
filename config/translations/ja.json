@@ -1,0 +1,31 @@
+{
+  "banner": {
+    "title": "プライバシーを大切にします",
+    "text": "当サイトでは Cookie などの類似技術を使用しています。必須 Cookie はサイトを正常に動作させるために必要です。ご同意いただいた場合は、機能、分析、マーケティングのための任意の Cookie も使用します。すべて同意、すべて拒否、またはカテゴリーごとの選択が可能で、いつでも変更できます。",
+    "acceptAll": "すべて同意",
+    "rejectAll": "すべて拒否",
+    "customize": "カスタマイズ",
+    "privacyPolicy": "プライバシーポリシー",
+    "cookiePolicy": "Cookie ポリシー"
+  },
+  "preferences": {
+    "title": "Cookie の設定",
+    "text": "許可する任意のカテゴリーを選択してください。必須 Cookie はサイトの動作に不可欠なため、オフにできません。",
+    "save": "設定を保存",
+    "acceptAll": "すべて同意",
+    "rejectAll": "すべて拒否",
+    "close": "閉じる",
+    "alwaysActive": "常に有効",
+    "on": "オン",
+    "off": "オフ"
+  },
+  "categories": {
+    "necessary": { "title": "必須", "description": "セキュリティ、負荷分散、この同意内容の記憶など、基本的な機能に必要です。" },
+    "functional": { "title": "機能", "description": "言語や地域などの設定を記憶し、埋め込み機能を有効にします。" },
+    "analytics": { "title": "分析", "description": "サイトの利用状況を把握し、改善に役立てるために使用します。" },
+    "marketing": { "title": "マーケティング", "description": "複数のウェブサイトにまたがる広告の効果測定とパーソナライズに使用します。" }
+  },
+  "reopen": "Cookie の設定",
+  "blockedContent": "「{category}」カテゴリーを許可するまで、このコンテンツはブロックされています。",
+  "allowContent": "許可して表示"
+}

@@ -1,0 +1,38 @@
+{
+    "name": "seoultra/open-consent",
+    "description": "Free, open-source cookie consent: a browser consent engine with real script blocking and Google Consent Mode v2, plus a PHP library to configure it and read the consent cookie server-side.",
+    "type": "library",
+    "license": "GPL-2.0-or-later",
+    "keywords": ["cookie consent", "consent management", "gdpr", "cookie banner", "google consent mode", "consent mode v2", "privacy", "cmp"],
+    "homepage": "https://seoultra.id/plugins/open-consent/",
+    "authors": [
+        { "name": "SEOULTRA", "homepage": "https://seoultra.id" }
+    ],
+    "support": {
+        "docs": "https://seoultra.id/plugins/open-consent/"
+    },
+    "require": {
+        "php": ">=8.1",
+        "ext-json": "*",
+        "ext-mbstring": "*"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^10.5 || ^11.0",
+        "phpstan/phpstan": "^2.1"
+    },
+    "autoload": {
+        "psr-4": { "SeoUltra\\OpenConsent\\": "packages/core-php/src/" }
+    },
+    "autoload-dev": {
+        "psr-4": { "SeoUltra\\OpenConsent\\Tests\\": "packages/core-php/tests/" }
+    },
+    "scripts": {
+        "build": "php bin/build.php",
+        "test": "phpunit",
+        "analyse": "phpstan analyse --no-progress",
+        "check": ["php bin/build.php --check", "@test", "@analyse"]
+    },
+    "config": {
+        "sort-packages": true
+    }
+}

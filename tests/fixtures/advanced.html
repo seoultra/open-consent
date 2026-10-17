@@ -1,0 +1,30 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>OpenConsent e2e — advanced</title>
+<script type="application/json" id="open-consent-config">
+{
+  "policyVersion": "1",
+  "links": { "privacyPolicy": "/privacy", "cookiePolicy": "/cookies" },
+  "google": { "enabled": true, "mode": "advanced", "tags": ["G-E2ETEST01", "AW-E2ETEST02"] }
+}
+</script>
+<script src="../../dist/open-consent.js"></script>
+<script type="text/plain" data-open-consent="analytics">
+  window.__ran = (window.__ran || []).concat('analytics');
+  document.cookie = '_ga=GA1.1.e2e; Path=/';
+</script>
+<script type="text/plain" data-open-consent="marketing">
+  window.__ran = (window.__ran || []).concat('marketing');
+  document.cookie = '_fbp=fb.1.e2e; Path=/';
+</script>
+<script type="text/plain" data-open-consent="bogus">window.__ran = (window.__ran || []).concat('bogus');</script>
+</head>
+<body>
+<h1>Standalone test page</h1>
+<p><a href="#open-consent" id="manage">Manage cookies</a></p>
+<p style="height:1500px">Long content</p>
+</body>
+</html>

@@ -1,0 +1,12 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' 'nonce-e2e'; style-src 'self'">
+<title>OpenConsent e2e — strict CSP</title>
+<script src="../../dist/open-consent.js" nonce="e2e"></script>
+<script nonce="e2e">OpenConsent.init({ cookie: { name: 'oc_csp' } });</script>
+<script type="text/plain" data-open-consent="analytics" nonce="e2e">window.__cspRan = 1;</script>
+</head>
+<body><h1>CSP</h1></body>
+</html>

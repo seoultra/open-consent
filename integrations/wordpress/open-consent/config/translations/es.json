@@ -1,0 +1,31 @@
+{
+  "banner": {
+    "title": "Valoramos tu privacidad",
+    "text": "Usamos cookies y tecnologías similares. Las cookies necesarias mantienen el sitio funcionando. Con tu permiso, también usamos cookies opcionales para funciones, analítica y marketing. Puedes aceptar todas, rechazar todas o elegir por categoría, y cambiar de opinión en cualquier momento.",
+    "acceptAll": "Aceptar todo",
+    "rejectAll": "Rechazar todo",
+    "customize": "Personalizar",
+    "privacyPolicy": "Aviso de privacidad",
+    "cookiePolicy": "Política de cookies"
+  },
+  "preferences": {
+    "title": "Preferencias de cookies",
+    "text": "Elige qué categorías opcionales permites. Las cookies necesarias no se pueden desactivar porque el sitio no funciona sin ellas.",
+    "save": "Guardar preferencias",
+    "acceptAll": "Aceptar todo",
+    "rejectAll": "Rechazar todo",
+    "close": "Cerrar",
+    "alwaysActive": "Siempre activas",
+    "on": "Activado",
+    "off": "Desactivado"
+  },
+  "categories": {
+    "necessary": { "title": "Necesarias", "description": "Requeridas para funciones básicas como la seguridad, el balanceo de carga y recordar esta elección de consentimiento." },
+    "functional": { "title": "Funcionales", "description": "Recuerdan preferencias como el idioma o la región y habilitan funciones incrustadas." },
+    "analytics": { "title": "Analíticas", "description": "Nos ayudan a entender cómo se usa el sitio para poder mejorarlo." },
+    "marketing": { "title": "Marketing", "description": "Se usan para medir y personalizar la publicidad en distintos sitios web." }
+  },
+  "reopen": "Preferencias de cookies",
+  "blockedContent": "Este contenido está bloqueado hasta que permitas la categoría \"{category}\".",
+  "allowContent": "Permitir y mostrar"
+}

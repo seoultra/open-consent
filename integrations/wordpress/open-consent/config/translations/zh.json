@@ -1,0 +1,31 @@
+{
+  "banner": {
+    "title": "我们重视您的隐私",
+    "text": "我们使用 Cookie 及类似技术。必要 Cookie 用于保证网站正常运行。经您许可，我们还会使用可选 Cookie 来提供功能、进行分析和营销。您可以全部接受、全部拒绝，或按类别选择，并可随时更改决定。",
+    "acceptAll": "全部接受",
+    "rejectAll": "全部拒绝",
+    "customize": "自定义",
+    "privacyPolicy": "隐私政策",
+    "cookiePolicy": "Cookie 政策"
+  },
+  "preferences": {
+    "title": "Cookie 偏好设置",
+    "text": "请选择您允许的可选类别。必要 Cookie 无法关闭，因为没有它们网站无法运行。",
+    "save": "保存偏好设置",
+    "acceptAll": "全部接受",
+    "rejectAll": "全部拒绝",
+    "close": "关闭",
+    "alwaysActive": "始终启用",
+    "on": "开",
+    "off": "关"
+  },
+  "categories": {
+    "necessary": { "title": "必要", "description": "用于安全、负载均衡以及记住此同意选择等基本功能。" },
+    "functional": { "title": "功能", "description": "记住语言或地区等偏好设置，并启用嵌入式功能。" },
+    "analytics": { "title": "分析", "description": "帮助我们了解网站的使用情况，以便改进。" },
+    "marketing": { "title": "营销", "description": "用于衡量并个性化跨网站的广告投放。" }
+  },
+  "reopen": "Cookie 偏好设置",
+  "blockedContent": "在您允许“{category}”类别之前，此内容已被拦截。",
+  "allowContent": "允许并显示"
+}

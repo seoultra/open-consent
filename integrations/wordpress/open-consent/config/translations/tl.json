@@ -1,0 +1,31 @@
+{
+  "banner": {
+    "title": "Pinahahalagahan namin ang iyong privacy",
+    "text": "Gumagamit kami ng mga cookie at katulad na teknolohiya. Pinapagana ng mga necessary cookie ang site. Sa iyong pahintulot, gumagamit din kami ng mga optional na cookie para sa mga feature, analytics at marketing. Maaari mong tanggapin lahat, tanggihan lahat, o pumili kada category, at magbago ng isip anumang oras.",
+    "acceptAll": "Tanggapin lahat",
+    "rejectAll": "Tanggihan lahat",
+    "customize": "I-customize",
+    "privacyPolicy": "Patakaran sa privacy",
+    "cookiePolicy": "Patakaran sa cookie"
+  },
+  "preferences": {
+    "title": "Mga preference sa cookie",
+    "text": "Piliin kung aling mga optional na category ang papayagan mo. Hindi maaaring i-off ang mga necessary cookie dahil hindi gagana ang site kung wala ang mga ito.",
+    "save": "I-save ang mga preference",
+    "acceptAll": "Tanggapin lahat",
+    "rejectAll": "Tanggihan lahat",
+    "close": "Isara",
+    "alwaysActive": "Laging aktibo",
+    "on": "Naka-on",
+    "off": "Naka-off"
+  },
+  "categories": {
+    "necessary": { "title": "Kailangan", "description": "Kailangan para sa mga pangunahing function tulad ng seguridad, load balancing at pag-alala sa pinili mong consent na ito." },
+    "functional": { "title": "Pang-function", "description": "Naaalala ang mga preference tulad ng wika o rehiyon at pinapagana ang mga naka-embed na feature." },
+    "analytics": { "title": "Pagsusuri", "description": "Tumutulong sa amin na maunawaan kung paano ginagamit ang site para mapabuti namin ito." },
+    "marketing": { "title": "Pagmemerkado", "description": "Ginagamit para sukatin at i-personalize ang advertising sa iba't ibang website." }
+  },
+  "reopen": "Mga preference sa cookie",
+  "blockedContent": "Naka-block ang content na ito hanggang payagan mo ang category na \"{category}\".",
+  "allowContent": "Payagan at ipakita"
+}

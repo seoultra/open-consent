@@ -1,0 +1,20 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><title>OpenConsent unit tests</title></head>
+<body>
+<pre id="out">running…</pre>
+<script type="module">
+  import { run } from './harness.js';
+  import './config.test.js';
+  import './consent-state.test.js';
+  import './storage.test.js';
+  import './google-consent.test.js';
+  import './script-blocker.test.js';
+  import './api.test.js';
+  const results = await run();
+  window.__results = results;
+  const failed = results.filter((r) => !r.ok);
+  document.getElementById('out').textContent =
+    results.map((r) => (r.ok ? 'ok   ' : 'FAIL ') + r.name + (r.ok ? '' : '\n     ' + r.error)).join('\n') +
+    '\n\n' + (results.length - failed.length) + '/' + results.length + ' passed';
+</script>
+</body></html>

@@ -1,0 +1,52 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>OpenConsent — standalone example</title>
+
+  <!-- 1. Configuration (data only). -->
+  <script type="application/json" id="open-consent-config">
+  {
+    "policyVersion": "1",
+    "links": { "privacyPolicy": "/privacy/", "cookiePolicy": "/cookies/" },
+    "ui": { "layout": "box", "position": "bottom-left", "theme": { "accent": "#0f766e" } },
+    "google": { "enabled": true, "mode": "basic", "tags": ["G-XXXXXXXXXX"] }
+  }
+  </script>
+
+  <!-- 2. The engine: synchronous, before every other tag. -->
+  <script src="../../dist/open-consent.js"></script>
+
+  <!-- 3. Optional code, inert until allowed. -->
+  <script type="text/plain" data-open-consent="analytics">
+    console.log('analytics allowed — this ran after consent');
+  </script>
+  <script type="text/plain" data-open-consent="marketing" data-src="https://connect.facebook.net/en_US/fbevents.js" async></script>
+  <script type="text/plain" data-open-consent="marketing">
+    console.log('marketing allowed');
+  </script>
+  <style>
+    body { font: 16px/1.6 system-ui, sans-serif; max-width: 760px; margin: 0 auto; padding: 24px 16px 120px; }
+    pre { background: #f6f8fa; padding: 12px; border-radius: 8px; overflow-x: auto; }
+  </style>
+</head>
+<body>
+  <h1>Standalone example</h1>
+  <p>Open the console and the network tab: nothing from Google or Facebook loads until you allow it.</p>
+  <p><a href="#open-consent">Cookie settings</a> · <button type="button" onclick="OpenConsent.resetConsent()">Forget my choice</button></p>
+
+  <h2>Embedded video (marketing)</h2>
+  <iframe data-open-consent="marketing" data-src="https://www.youtube-nocookie.com/embed/aqz-KE-bpKQ"
+          width="560" height="315" title="Video" allowfullscreen style="max-width:100%"></iframe>
+
+  <h2>Current state</h2>
+  <pre id="state"></pre>
+  <script>
+    function show() { document.getElementById('state').textContent = JSON.stringify(OpenConsent.getConsent(), null, 2); }
+    OpenConsent.on('ready', show);
+    OpenConsent.on('consent', show);
+    OpenConsent.on('reset', show);
+  </script>
+</body>
+</html>

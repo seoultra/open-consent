@@ -1,0 +1,11 @@
+* text=auto eol=lf
+# Keep Composer dist archives lean: library, bundle, config, docs.
+/.github export-ignore
+/tests export-ignore
+/packages/web/tests export-ignore
+/packages/core-php/tests export-ignore
+/integrations/wordpress/tests export-ignore
+/examples export-ignore
+/phpunit.xml.dist export-ignore
+/phpstan.neon.dist export-ignore
+/.editorconfig export-ignore

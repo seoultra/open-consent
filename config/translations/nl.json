@@ -1,0 +1,31 @@
+{
+  "banner": {
+    "title": "Wij hechten waarde aan je privacy",
+    "text": "Wij gebruiken cookies en vergelijkbare technologieën. Noodzakelijke cookies zorgen dat de site werkt. Met jouw toestemming gebruiken we ook optionele cookies voor functies, analyse en marketing. Je kunt alles accepteren, alles weigeren of per categorie kiezen, en je keuze op elk moment wijzigen.",
+    "acceptAll": "Alles accepteren",
+    "rejectAll": "Alles weigeren",
+    "customize": "Aanpassen",
+    "privacyPolicy": "Privacybeleid",
+    "cookiePolicy": "Cookiebeleid"
+  },
+  "preferences": {
+    "title": "Cookievoorkeuren",
+    "text": "Kies welke optionele categorieën je toestaat. Noodzakelijke cookies kunnen niet worden uitgezet, omdat de site zonder deze cookies niet werkt.",
+    "save": "Voorkeuren opslaan",
+    "acceptAll": "Alles accepteren",
+    "rejectAll": "Alles weigeren",
+    "close": "Sluiten",
+    "alwaysActive": "Altijd actief",
+    "on": "Aan",
+    "off": "Uit"
+  },
+  "categories": {
+    "necessary": { "title": "Noodzakelijk", "description": "Vereist voor basisfuncties zoals beveiliging, taakverdeling en het onthouden van deze toestemmingskeuze." },
+    "functional": { "title": "Functioneel", "description": "Onthouden voorkeuren zoals taal of regio en maken ingesloten functies mogelijk." },
+    "analytics": { "title": "Analytisch", "description": "Helpen ons te begrijpen hoe de site wordt gebruikt, zodat we hem kunnen verbeteren." },
+    "marketing": { "title": "Marketing", "description": "Worden gebruikt om advertenties op verschillende websites te meten en te personaliseren." }
+  },
+  "reopen": "Cookievoorkeuren",
+  "blockedContent": "Deze inhoud is geblokkeerd totdat je de categorie \"{category}\" toestaat.",
+  "allowContent": "Toestaan en tonen"
+}

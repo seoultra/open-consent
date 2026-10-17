@@ -1,0 +1,31 @@
+{
+  "banner": {
+    "title": "Arvostamme yksityisyyttäsi",
+    "text": "Käytämme evästeitä ja vastaavia tekniikoita. Välttämättömät evästeet pitävät sivuston toiminnassa. Luvallasi käytämme myös valinnaisia evästeitä toimintoihin, analytiikkaan ja markkinointiin. Voit hyväksyä kaikki, hylätä kaikki tai valita luokittain, ja muuttaa mielesi milloin tahansa.",
+    "acceptAll": "Hyväksy kaikki",
+    "rejectAll": "Hylkää kaikki",
+    "customize": "Mukauta",
+    "privacyPolicy": "Tietosuojaseloste",
+    "cookiePolicy": "Evästekäytäntö"
+  },
+  "preferences": {
+    "title": "Evästeasetukset",
+    "text": "Valitse, mitkä valinnaiset luokat sallit. Välttämättömiä evästeitä ei voi poistaa käytöstä, koska sivusto ei toimi ilman niitä.",
+    "save": "Tallenna asetukset",
+    "acceptAll": "Hyväksy kaikki",
+    "rejectAll": "Hylkää kaikki",
+    "close": "Sulje",
+    "alwaysActive": "Aina käytössä",
+    "on": "Päällä",
+    "off": "Pois"
+  },
+  "categories": {
+    "necessary": { "title": "Välttämättömät", "description": "Tarvitaan perustoimintoihin, kuten tietoturvaan, kuormituksen tasaukseen ja tämän suostumusvalinnan muistamiseen." },
+    "functional": { "title": "Toiminnalliset", "description": "Muistavat asetuksia, kuten kielen tai alueen, ja mahdollistavat upotetut toiminnot." },
+    "analytics": { "title": "Analytiikka", "description": "Auttavat meitä ymmärtämään, miten sivustoa käytetään, jotta voimme parantaa sitä." },
+    "marketing": { "title": "Markkinointi", "description": "Käytetään mainonnan mittaamiseen ja personointiin eri verkkosivustoilla." }
+  },
+  "reopen": "Evästeasetukset",
+  "blockedContent": "Tämä sisältö on estetty, kunnes sallit luokan \"{category}\".",
+  "allowContent": "Salli ja näytä"
+}

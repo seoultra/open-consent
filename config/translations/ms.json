@@ -1,0 +1,31 @@
+{
+  "banner": {
+    "title": "Kami menghargai privasi anda",
+    "text": "Kami menggunakan kuki dan teknologi yang serupa. Kuki perlu memastikan laman web berfungsi. Dengan kebenaran anda, kami juga menggunakan kuki pilihan untuk ciri, analitik dan pemasaran. Anda boleh menerima semua, menolak semua, atau memilih mengikut kategori, dan mengubah fikiran pada bila-bila masa.",
+    "acceptAll": "Terima semua",
+    "rejectAll": "Tolak semua",
+    "customize": "Sesuaikan",
+    "privacyPolicy": "Dasar privasi",
+    "cookiePolicy": "Dasar kuki"
+  },
+  "preferences": {
+    "title": "Keutamaan kuki",
+    "text": "Pilih kategori pilihan yang anda benarkan. Kuki yang perlu tidak boleh dimatikan kerana laman web tidak berfungsi tanpanya.",
+    "save": "Simpan keutamaan",
+    "acceptAll": "Terima semua",
+    "rejectAll": "Tolak semua",
+    "close": "Tutup",
+    "alwaysActive": "Sentiasa aktif",
+    "on": "Hidup",
+    "off": "Mati"
+  },
+  "categories": {
+    "necessary": { "title": "Perlu", "description": "Diperlukan untuk fungsi asas seperti keselamatan, pengimbangan beban dan mengingati pilihan persetujuan ini." },
+    "functional": { "title": "Fungsian", "description": "Mengingati keutamaan seperti bahasa atau wilayah dan mengaktifkan ciri terbenam." },
+    "analytics": { "title": "Analitik", "description": "Membantu kami memahami cara laman web digunakan supaya kami dapat menambah baiknya." },
+    "marketing": { "title": "Pemasaran", "description": "Digunakan untuk mengukur dan memperibadikan pengiklanan merentas laman web." }
+  },
+  "reopen": "Keutamaan kuki",
+  "blockedContent": "Kandungan ini disekat sehingga anda membenarkan kategori \"{category}\".",
+  "allowContent": "Benarkan dan papar"
+}

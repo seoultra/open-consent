@@ -1,0 +1,79 @@
+{
+    "schemaVersion": 1,
+    "policyVersion": "1",
+    "profile": "opt-in",
+    "lang": "auto",
+    "categories": {
+        "necessary": {
+            "required": true,
+            "cookies": []
+        },
+        "functional": {
+            "required": false,
+            "cookies": []
+        },
+        "analytics": {
+            "required": false,
+            "cookies": [
+                "_ga",
+                "_ga_*",
+                "_gid",
+                "_gat",
+                "_gat_*"
+            ]
+        },
+        "marketing": {
+            "required": false,
+            "cookies": [
+                "_gcl_au",
+                "_gcl_aw",
+                "_gcl_dc",
+                "_gcl_gb",
+                "_fbp",
+                "_fbc"
+            ]
+        }
+    },
+    "cookie": {
+        "name": "open_consent",
+        "days": 180,
+        "domain": "",
+        "path": "/",
+        "sameSite": "Lax"
+    },
+    "links": {
+        "privacyPolicy": "",
+        "cookiePolicy": ""
+    },
+    "ui": {
+        "autoShow": true,
+        "layout": "bar",
+        "position": "bottom",
+        "reopenButton": true,
+        "reopenPosition": "left",
+        "zIndex": 2147483000,
+        "theme": {
+            "background": "#ffffff",
+            "text": "#1f2328",
+            "muted": "#57606a",
+            "accent": "#1a56db",
+            "accentText": "#ffffff",
+            "border": "#d0d7de",
+            "radius": "10px",
+            "fontFamily": "inherit"
+        }
+    },
+    "gpc": true,
+    "reloadOnWithdraw": false,
+    "google": {
+        "enabled": false,
+        "mode": "basic",
+        "waitForUpdate": 500,
+        "region": [],
+        "urlPassthrough": false,
+        "adsDataRedaction": true,
+        "overrideExisting": false,
+        "tags": []
+    },
+    "texts": []
+}

@@ -1,0 +1,31 @@
+{
+  "banner": {
+    "title": "Chúng tôi coi trọng quyền riêng tư của bạn",
+    "text": "Chúng tôi sử dụng cookie và các công nghệ tương tự. Cookie cần thiết giúp trang web hoạt động. Khi được bạn cho phép, chúng tôi cũng dùng cookie tùy chọn cho tính năng, phân tích và tiếp thị. Bạn có thể chấp nhận tất cả, từ chối tất cả hoặc chọn theo từng danh mục, và đổi ý bất cứ lúc nào.",
+    "acceptAll": "Chấp nhận tất cả",
+    "rejectAll": "Từ chối tất cả",
+    "customize": "Tùy chỉnh",
+    "privacyPolicy": "Chính sách quyền riêng tư",
+    "cookiePolicy": "Chính sách cookie"
+  },
+  "preferences": {
+    "title": "Tùy chọn cookie",
+    "text": "Chọn các danh mục tùy chọn mà bạn cho phép. Cookie cần thiết không thể tắt vì trang web không hoạt động nếu thiếu chúng.",
+    "save": "Lưu tùy chọn",
+    "acceptAll": "Chấp nhận tất cả",
+    "rejectAll": "Từ chối tất cả",
+    "close": "Đóng",
+    "alwaysActive": "Luôn bật",
+    "on": "Bật",
+    "off": "Tắt"
+  },
+  "categories": {
+    "necessary": { "title": "Cần thiết", "description": "Cần cho các chức năng cơ bản như bảo mật, cân bằng tải và ghi nhớ lựa chọn đồng ý này." },
+    "functional": { "title": "Chức năng", "description": "Ghi nhớ tùy chọn như ngôn ngữ hoặc khu vực và bật các tính năng nhúng." },
+    "analytics": { "title": "Phân tích", "description": "Giúp chúng tôi hiểu cách trang web được sử dụng để cải thiện nó." },
+    "marketing": { "title": "Tiếp thị", "description": "Dùng để đo lường và cá nhân hóa quảng cáo trên các trang web." }
+  },
+  "reopen": "Tùy chọn cookie",
+  "blockedContent": "Nội dung này bị chặn cho đến khi bạn cho phép danh mục \"{category}\".",
+  "allowContent": "Cho phép và hiển thị"
+}

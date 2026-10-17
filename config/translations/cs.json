@@ -1,0 +1,31 @@
+{
+  "banner": {
+    "title": "Vážíme si vašeho soukromí",
+    "text": "Používáme soubory cookie a podobné technologie. Nezbytné cookies zajišťují fungování webu. S vaším souhlasem používáme také volitelné cookies pro funkce, analytiku a marketing. Můžete přijmout vše, odmítnout vše nebo vybrat podle kategorií a své rozhodnutí kdykoli změnit.",
+    "acceptAll": "Přijmout vše",
+    "rejectAll": "Odmítnout vše",
+    "customize": "Přizpůsobit",
+    "privacyPolicy": "Zásady ochrany osobních údajů",
+    "cookiePolicy": "Zásady používání cookies"
+  },
+  "preferences": {
+    "title": "Předvolby cookies",
+    "text": "Vyberte, které volitelné kategorie povolujete. Nezbytné cookies nelze vypnout, protože web bez nich nefunguje.",
+    "save": "Uložit předvolby",
+    "acceptAll": "Přijmout vše",
+    "rejectAll": "Odmítnout vše",
+    "close": "Zavřít",
+    "alwaysActive": "Vždy aktivní",
+    "on": "Zapnuto",
+    "off": "Vypnuto"
+  },
+  "categories": {
+    "necessary": { "title": "Nezbytné", "description": "Potřebné pro základní funkce, jako je zabezpečení, rozkládání zátěže a zapamatování této volby souhlasu." },
+    "functional": { "title": "Funkční", "description": "Pamatují si předvolby, například jazyk nebo region, a umožňují vložené funkce." },
+    "analytics": { "title": "Analytické", "description": "Pomáhají nám pochopit, jak se web používá, abychom ho mohli vylepšovat." },
+    "marketing": { "title": "Marketingové", "description": "Používají se k měření a personalizaci reklamy napříč weby." }
+  },
+  "reopen": "Předvolby cookies",
+  "blockedContent": "Tento obsah je zablokován, dokud nepovolíte kategorii „{category}“.",
+  "allowContent": "Povolit a zobrazit"
+}

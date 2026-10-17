@@ -1,0 +1,31 @@
+{
+  "banner": {
+    "title": "We value your privacy",
+    "text": "We use cookies and similar technologies. Necessary cookies keep the site working. With your permission we also use optional cookies for features, analytics and marketing. You can accept all, reject all, or choose per category, and change your mind at any time.",
+    "acceptAll": "Accept all",
+    "rejectAll": "Reject all",
+    "customize": "Customize",
+    "privacyPolicy": "Privacy policy",
+    "cookiePolicy": "Cookie policy"
+  },
+  "preferences": {
+    "title": "Cookie preferences",
+    "text": "Choose which optional categories you allow. Necessary cookies cannot be switched off because the site does not work without them.",
+    "save": "Save preferences",
+    "acceptAll": "Accept all",
+    "rejectAll": "Reject all",
+    "close": "Close",
+    "alwaysActive": "Always active",
+    "on": "On",
+    "off": "Off"
+  },
+  "categories": {
+    "necessary": { "title": "Necessary", "description": "Required for basic functions such as security, load balancing and remembering this consent choice." },
+    "functional": { "title": "Functional", "description": "Remember preferences such as language or region and enable embedded features." },
+    "analytics": { "title": "Analytics", "description": "Help us understand how the site is used so we can improve it." },
+    "marketing": { "title": "Marketing", "description": "Used to measure and personalise advertising across websites." }
+  },
+  "reopen": "Cookie preferences",
+  "blockedContent": "This content is blocked until you allow the \"{category}\" category.",
+  "allowContent": "Allow and show"
+}

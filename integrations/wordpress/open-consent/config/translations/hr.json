@@ -1,0 +1,31 @@
+{
+  "banner": {
+    "title": "Cijenimo vašu privatnost",
+    "text": "Koristimo kolačiće i slične tehnologije. Nužni kolačići omogućuju rad stranice. Uz vaše dopuštenje koristimo i izborne kolačiće za funkcije, analitiku i marketing. Možete prihvatiti sve, odbiti sve ili birati po kategorijama te se u svakom trenutku predomisliti.",
+    "acceptAll": "Prihvati sve",
+    "rejectAll": "Odbij sve",
+    "customize": "Prilagodi",
+    "privacyPolicy": "Politika privatnosti",
+    "cookiePolicy": "Politika kolačića"
+  },
+  "preferences": {
+    "title": "Postavke kolačića",
+    "text": "Odaberite koje izborne kategorije dopuštate. Nužni kolačići ne mogu se isključiti jer stranica bez njih ne radi.",
+    "save": "Spremi postavke",
+    "acceptAll": "Prihvati sve",
+    "rejectAll": "Odbij sve",
+    "close": "Zatvori",
+    "alwaysActive": "Uvijek aktivni",
+    "on": "Uključeno",
+    "off": "Isključeno"
+  },
+  "categories": {
+    "necessary": { "title": "Nužni", "description": "Potrebni za osnovne funkcije kao što su sigurnost, raspodjela opterećenja i pamćenje ovog odabira privole." },
+    "functional": { "title": "Funkcionalni", "description": "Pamte postavke poput jezika ili regije i omogućuju ugrađene funkcije." },
+    "analytics": { "title": "Analitički", "description": "Pomažu nam razumjeti kako se stranica koristi kako bismo je mogli poboljšati." },
+    "marketing": { "title": "Marketinški", "description": "Koriste se za mjerenje i personalizaciju oglasa na različitim web-stranicama." }
+  },
+  "reopen": "Postavke kolačića",
+  "blockedContent": "Ovaj je sadržaj blokiran dok ne dopustite kategoriju \"{category}\".",
+  "allowContent": "Dopusti i prikaži"
+}

@@ -1,0 +1,31 @@
+{
+  "banner": {
+    "title": "Maxfiyligingizni qadrlaymiz",
+    "text": "Biz cookie fayllari va shunga oʻxshash texnologiyalardan foydalanamiz. Zarur cookie fayllari saytning ishlashini taʼminlaydi. Ruxsatingiz bilan biz funksiyalar, analitika va marketing uchun ixtiyoriy cookie fayllaridan ham foydalanamiz. Hammasini qabul qilishingiz, hammasini rad etishingiz yoki toifalar boʻyicha tanlashingiz mumkin, fikringizni esa istalgan payt oʻzgartirishingiz mumkin.",
+    "acceptAll": "Hammasini qabul qilish",
+    "rejectAll": "Hammasini rad etish",
+    "customize": "Sozlash",
+    "privacyPolicy": "Maxfiylik siyosati",
+    "cookiePolicy": "Cookie siyosati"
+  },
+  "preferences": {
+    "title": "Cookie sozlamalari",
+    "text": "Qaysi ixtiyoriy toifalarga ruxsat berishni tanlang. Zarur cookie fayllarini oʻchirib boʻlmaydi, chunki ularsiz sayt ishlamaydi.",
+    "save": "Sozlamalarni saqlash",
+    "acceptAll": "Hammasini qabul qilish",
+    "rejectAll": "Hammasini rad etish",
+    "close": "Yopish",
+    "alwaysActive": "Doim faol",
+    "on": "Yoqilgan",
+    "off": "Oʻchirilgan"
+  },
+  "categories": {
+    "necessary": { "title": "Zarur", "description": "Xavfsizlik, yuklamani taqsimlash va ushbu rozilik tanlovini eslab qolish kabi asosiy funksiyalar uchun talab qilinadi." },
+    "functional": { "title": "Funksional", "description": "Til yoki hudud kabi sozlamalarni eslab qoladi va oʻrnatilgan funksiyalarni yoqadi." },
+    "analytics": { "title": "Analitika", "description": "Saytdan qanday foydalanilishini tushunishga yordam beradi, shunda uni yaxshilay olamiz." },
+    "marketing": { "title": "Marketing", "description": "Veb-saytlar boʻylab reklamani oʻlchash va shaxsiylashtirish uchun ishlatiladi." }
+  },
+  "reopen": "Cookie sozlamalari",
+  "blockedContent": "Bu kontent “{category}” toifasiga ruxsat bermaguningizcha bloklangan.",
+  "allowContent": "Ruxsat berish va koʻrsatish"
+}

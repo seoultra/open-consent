@@ -1,0 +1,31 @@
+{
+  "banner": {
+    "title": "개인정보를 소중히 생각합니다",
+    "text": "저희는 쿠키 및 유사 기술을 사용합니다. 필수 쿠키는 사이트가 제대로 작동하도록 합니다. 허락해 주시면 기능, 분석, 마케팅을 위한 선택 쿠키도 사용합니다. 모두 허용하거나, 모두 거부하거나, 카테고리별로 선택할 수 있으며 언제든 변경할 수 있습니다.",
+    "acceptAll": "모두 허용",
+    "rejectAll": "모두 거부",
+    "customize": "맞춤 설정",
+    "privacyPolicy": "개인정보처리방침",
+    "cookiePolicy": "쿠키 정책"
+  },
+  "preferences": {
+    "title": "쿠키 설정",
+    "text": "허용할 선택 카테고리를 고르세요. 필수 쿠키는 사이트가 작동하는 데 꼭 필요하므로 끌 수 없습니다.",
+    "save": "설정 저장",
+    "acceptAll": "모두 허용",
+    "rejectAll": "모두 거부",
+    "close": "닫기",
+    "alwaysActive": "항상 활성",
+    "on": "켜짐",
+    "off": "꺼짐"
+  },
+  "categories": {
+    "necessary": { "title": "필수", "description": "보안, 부하 분산, 이 동의 선택 기억 등 기본 기능에 필요합니다." },
+    "functional": { "title": "기능", "description": "언어나 지역 같은 설정을 기억하고 임베드 기능을 사용할 수 있게 합니다." },
+    "analytics": { "title": "분석", "description": "사이트 이용 방식을 파악해 개선하는 데 도움이 됩니다." },
+    "marketing": { "title": "마케팅", "description": "여러 웹사이트에 걸친 광고를 측정하고 맞춤화하는 데 사용됩니다." }
+  },
+  "reopen": "쿠키 설정",
+  "blockedContent": "\"{category}\" 카테고리를 허용하기 전까지 이 콘텐츠는 차단됩니다.",
+  "allowContent": "허용하고 표시"
+}

@@ -1,0 +1,31 @@
+{
+  "banner": {
+    "title": "Kami menghargai privasi Anda",
+    "text": "Kami menggunakan cookie dan teknologi serupa. Cookie yang diperlukan menjaga situs tetap berfungsi. Dengan izin Anda, kami juga memakai cookie opsional untuk fitur, analitik, dan pemasaran. Anda dapat menerima semua, menolak semua, atau memilih per kategori, dan mengubah pilihan kapan saja.",
+    "acceptAll": "Terima semua",
+    "rejectAll": "Tolak semua",
+    "customize": "Atur pilihan",
+    "privacyPolicy": "Kebijakan privasi",
+    "cookiePolicy": "Kebijakan cookie"
+  },
+  "preferences": {
+    "title": "Preferensi cookie",
+    "text": "Pilih kategori opsional yang Anda izinkan. Cookie yang diperlukan tidak dapat dimatikan karena situs tidak berfungsi tanpanya.",
+    "save": "Simpan preferensi",
+    "acceptAll": "Terima semua",
+    "rejectAll": "Tolak semua",
+    "close": "Tutup",
+    "alwaysActive": "Selalu aktif",
+    "on": "Aktif",
+    "off": "Nonaktif"
+  },
+  "categories": {
+    "necessary": { "title": "Diperlukan", "description": "Dibutuhkan untuk fungsi dasar seperti keamanan, penyeimbangan beban, dan mengingat pilihan persetujuan ini." },
+    "functional": { "title": "Fungsional", "description": "Mengingat preferensi seperti bahasa atau wilayah dan mengaktifkan fitur tersemat." },
+    "analytics": { "title": "Analitik", "description": "Membantu kami memahami cara situs digunakan agar dapat ditingkatkan." },
+    "marketing": { "title": "Pemasaran", "description": "Digunakan untuk mengukur dan mempersonalisasi iklan di berbagai situs web." }
+  },
+  "reopen": "Preferensi cookie",
+  "blockedContent": "Konten ini diblokir sampai Anda mengizinkan kategori \"{category}\".",
+  "allowContent": "Izinkan dan tampilkan"
+}

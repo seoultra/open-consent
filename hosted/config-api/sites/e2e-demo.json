@@ -1,0 +1,8 @@
+{
+  "allowedOrigins": ["http://127.0.0.1", "http://localhost"],
+  "config": {
+    "policyVersion": "1",
+    "texts": { "en": { "banner": { "title": "REMOTE CONFIG" } } },
+    "google": { "enabled": true, "mode": "basic" }
+  }
+}

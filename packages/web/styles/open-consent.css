@@ -1,0 +1,130 @@
+/* OpenConsent widget styles — rendered inside a shadow root, so host-page
+   CSS cannot break the banner and this CSS cannot leak into the page.
+   Theme values arrive as custom properties set from validated config. */
+:host {
+  all: initial;
+  --oc-bg: #ffffff;
+  --oc-text: #1f2328;
+  --oc-muted: #57606a;
+  --oc-accent: #1a56db;
+  --oc-accent-text: #ffffff;
+  --oc-border: #d0d7de;
+  --oc-radius: 10px;
+  --oc-font: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  --oc-z: 2147483000;
+}
+*, *::before, *::after { box-sizing: border-box; }
+.oc-root { font-family: var(--oc-font); font-size: 15px; line-height: 1.5; color: var(--oc-text); }
+[hidden] { display: none !important; }
+
+.oc-banner {
+  position: fixed; z-index: var(--oc-z);
+  background: var(--oc-bg); color: var(--oc-text);
+  border: 1px solid var(--oc-border);
+  box-shadow: 0 10px 40px rgba(0, 0, 0, .18);
+  padding: 18px 20px;
+  max-height: calc(100vh - 24px); overflow-y: auto;
+  animation: oc-in .22s ease-out;
+}
+.oc-banner:focus { outline: none; }
+.oc-banner:focus-visible { outline: none; }
+.oc-layout-bar { inset-inline: 0; border-radius: 0; border-inline: 0; }
+.oc-layout-bar.oc-pos-bottom, .oc-layout-bar.oc-pos-bottom-left, .oc-layout-bar.oc-pos-bottom-right, .oc-layout-bar.oc-pos-center { bottom: 0; border-bottom: 0; }
+.oc-layout-bar.oc-pos-top { top: 0; border-top: 0; }
+.oc-layout-bar .oc-inner { max-width: 1180px; margin: 0 auto; display: flex; gap: 20px; align-items: center; }
+.oc-layout-bar .oc-copy { flex: 1 1 auto; min-width: 0; }
+.oc-layout-bar .oc-actions { flex: 0 0 auto; }
+.oc-layout-box { width: min(420px, calc(100vw - 24px)); border-radius: var(--oc-radius); }
+.oc-layout-box.oc-pos-bottom, .oc-layout-box.oc-pos-bottom-left { bottom: 12px; inset-inline-start: 12px; }
+.oc-layout-box.oc-pos-bottom-right { bottom: 12px; inset-inline-end: 12px; }
+.oc-layout-box.oc-pos-top { top: 12px; inset-inline-start: 50%; transform: translateX(-50%); }
+.oc-layout-box.oc-pos-center { top: 50%; inset-inline-start: 50%; transform: translate(-50%, -50%); }
+:host([dir="rtl"]) .oc-layout-box.oc-pos-top, :host([dir="rtl"]) .oc-layout-box.oc-pos-center { transform: translateX(50%); }
+:host([dir="rtl"]) .oc-layout-box.oc-pos-center { transform: translate(50%, -50%); }
+.oc-layout-box .oc-actions { margin-top: 14px; }
+
+.oc-title { margin: 0 0 6px; font-size: 17px; font-weight: 700; line-height: 1.3; color: var(--oc-text); }
+.oc-text { margin: 0; color: var(--oc-muted); font-size: 14px; }
+.oc-links { margin: 8px 0 0; display: flex; flex-wrap: wrap; gap: 4px 16px; font-size: 13px; }
+.oc-links a { color: var(--oc-accent); text-decoration: underline; text-underline-offset: 2px; }
+
+.oc-actions { display: flex; flex-wrap: wrap; gap: 8px; }
+.oc-btn {
+  font: inherit; font-size: 14px; font-weight: 600; line-height: 1.2;
+  min-height: 44px; padding: 10px 18px; border-radius: calc(var(--oc-radius) * .7);
+  cursor: pointer; border: 2px solid var(--oc-accent);
+  transition: filter .15s ease, background-color .15s ease;
+}
+/* Accept all and Reject all share ONE style: equal prominence by design. */
+.oc-btn-choice { background: var(--oc-accent); color: var(--oc-accent-text); }
+.oc-btn-choice:hover { filter: brightness(1.08); }
+.oc-btn-secondary { background: transparent; color: var(--oc-accent); }
+.oc-btn-secondary:hover { background: color-mix(in srgb, var(--oc-accent) 8%, transparent); }
+.oc-btn:focus-visible, .oc-link-btn:focus-visible, .oc-switch input:focus-visible + .oc-track, .oc-links a:focus-visible, .oc-close:focus-visible, .oc-reopen:focus-visible {
+  outline: 3px solid var(--oc-accent); outline-offset: 2px;
+}
+
+.oc-overlay {
+  position: fixed; inset: 0; z-index: calc(var(--oc-z) + 1);
+  background: rgba(15, 20, 25, .55);
+  display: flex; align-items: center; justify-content: center; padding: 12px;
+  animation: oc-fade .18s ease-out;
+}
+.oc-modal {
+  background: var(--oc-bg); color: var(--oc-text);
+  border-radius: var(--oc-radius); width: min(620px, 100%);
+  max-height: calc(100vh - 24px); display: flex; flex-direction: column;
+  box-shadow: 0 20px 60px rgba(0, 0, 0, .3);
+}
+.oc-modal:focus { outline: none; }
+.oc-modal-head { display: flex; align-items: flex-start; gap: 12px; padding: 18px 20px 6px; }
+.oc-modal-head .oc-title { flex: 1; font-size: 19px; }
+.oc-close {
+  font: inherit; font-size: 22px; line-height: 1; width: 40px; height: 40px; flex: 0 0 40px;
+  border-radius: 50%; border: 1px solid var(--oc-border); background: transparent; color: var(--oc-text); cursor: pointer;
+}
+.oc-modal-body { padding: 4px 20px 12px; overflow-y: auto; }
+.oc-modal-foot { padding: 12px 20px 18px; border-top: 1px solid var(--oc-border); }
+.oc-cat { border: 1px solid var(--oc-border); border-radius: calc(var(--oc-radius) * .8); padding: 12px 14px; margin-top: 10px; }
+.oc-cat-head { display: flex; align-items: center; gap: 12px; justify-content: space-between; }
+.oc-cat-title { margin: 0; font-size: 15px; font-weight: 700; }
+.oc-cat-desc { margin: 4px 0 0; color: var(--oc-muted); font-size: 13.5px; }
+.oc-always { font-size: 12.5px; font-weight: 600; color: var(--oc-muted); white-space: nowrap; }
+
+.oc-switch { position: relative; display: inline-flex; align-items: center; gap: 8px; cursor: pointer; flex: 0 0 auto; }
+.oc-switch input { position: absolute; z-index: 1; inset-inline-start: 0; top: 50%; translate: 0 -50%; opacity: 0; width: 44px; height: 26px; margin: 0; cursor: pointer; }
+.oc-track { width: 44px; height: 26px; border-radius: 13px; background: #8c959f; position: relative; transition: background-color .15s ease; }
+.oc-track::after { content: ""; position: absolute; top: 3px; inset-inline-start: 3px; width: 20px; height: 20px; border-radius: 50%; background: #fff; transition: transform .15s ease; }
+.oc-switch input:checked + .oc-track { background: var(--oc-accent); }
+.oc-switch input:checked + .oc-track::after { transform: translateX(18px); }
+:host([dir="rtl"]) .oc-switch input:checked + .oc-track::after { transform: translateX(-18px); }
+.oc-state { font-size: 12.5px; color: var(--oc-muted); min-width: 2.5em; }
+
+.oc-reopen {
+  position: fixed; bottom: 14px; z-index: var(--oc-z);
+  width: 44px; height: 44px; border-radius: 50%;
+  border: 1px solid var(--oc-border); background: var(--oc-bg); color: var(--oc-accent);
+  box-shadow: 0 4px 14px rgba(0, 0, 0, .18); cursor: pointer; display: grid; place-items: center; padding: 0;
+}
+.oc-reopen svg { width: 24px; height: 24px; }
+.oc-reopen-left { inset-inline-start: 14px; }
+.oc-reopen-right { inset-inline-end: 14px; }
+
+.oc-sr { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; }
+
+@keyframes oc-in { from { opacity: 0; translate: 0 12px; } to { opacity: 1; translate: 0 0; } }
+@keyframes oc-fade { from { opacity: 0; } to { opacity: 1; } }
+
+@media (max-width: 720px) {
+  .oc-layout-bar .oc-inner { flex-direction: column; align-items: stretch; gap: 14px; }
+  .oc-banner { padding: 16px; }
+  .oc-actions { flex-direction: column; }
+  .oc-actions .oc-btn { width: 100%; }
+  .oc-modal-head, .oc-modal-body, .oc-modal-foot { padding-inline: 16px; }
+}
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after { animation: none !important; transition: none !important; }
+}
+@media (forced-colors: active) {
+  .oc-btn, .oc-track, .oc-banner, .oc-modal, .oc-reopen { border: 2px solid CanvasText; }
+}
