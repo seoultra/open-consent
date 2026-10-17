@@ -4,7 +4,8 @@ Free, open-source cookie consent for any website, WordPress, and PHP application
 with **real script blocking** and **Google Consent Mode v2**. No account, no API key,
 no remote calls, no telemetry. GPL-2.0-or-later.
 
-- Composer package: `seoultra/open-consent` *(not yet on Packagist — see [release checklist](docs/release-checklist.md))*
+- Composer: `composer require seoultra/open-consent` — https://packagist.org/packages/seoultra/open-consent
+- Source: https://github.com/seoultra/open-consent
 - Project page: https://seoultra.id/plugins/open-consent/
 
 > OpenConsent is a technical tool. It does not by itself make a site compliant with

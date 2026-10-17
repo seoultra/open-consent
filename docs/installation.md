@@ -44,19 +44,8 @@ script, or call `OpenConsent.init({...})` yourself (only the first call counts).
 
 ## 3. Composer (PHP applications)
 
-Once the package is published on Packagist:
-
 ```sh
 composer require seoultra/open-consent
-```
-
-Until then, install from a local checkout or a VCS repository:
-
-```json
-{
-  "repositories": [{ "type": "vcs", "url": "https://github.com/<owner>/open-consent" }],
-  "require": { "seoultra/open-consent": "^0.1" }
-}
 ```
 
 Then expose `vendor/seoultra/open-consent/dist/open-consent.js` from your public

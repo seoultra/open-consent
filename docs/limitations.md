@@ -21,6 +21,5 @@ Honest list of what OpenConsent does **not** do.
 - **Toolchain:** the JS build and tests run without Node (PHP build + Chromium via
   Python Playwright). ESLint/Prettier/Vitest are not part of the pipeline; the bundle is
   not minified (≈22 KB gzip).
-- **Not yet published**: no GitHub repository, Packagist package, npm package or
-  WordPress.org listing exists until the maintainer creates them (see
-  [release-checklist.md](release-checklist.md)).
+- **Distribution:** published on GitHub (seoultra/open-consent) and Packagist. There is no
+  npm package and no WordPress.org listing yet (see [release-checklist.md](release-checklist.md)).

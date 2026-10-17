@@ -10,8 +10,8 @@
 
 Please report privately — do not open a public issue.
 
-- Preferred: GitHub "Report a vulnerability" (private security advisory) on the project
-  repository, once it is published.
+- Preferred: GitHub "Report a vulnerability" (private security advisory) at
+  https://github.com/seoultra/open-consent/security/advisories/new
 - Otherwise: through the contact options at https://seoultra.id/.
 
 Include affected version, a description, and steps or a proof of concept. You will get an
