@@ -25,6 +25,18 @@ OpenConsent shows an accessible cookie banner, stores the visitor's choice in a 
 
 OpenConsent is a technical tool. Installing it does not by itself make a site compliant with GDPR, ePrivacy, CCPA or any other law — you decide which cookies you use, which category they belong to and which consent model applies to you.
 
+== External services ==
+
+OpenConsent makes no remote requests on its own. It has no account, licence check, telemetry or update server besides WordPress.org.
+
+The plugin connects to one external service, and only if you configure it:
+
+* **Google tag (gtag.js) from Google** — when you enter a GA4 measurement ID or a Google Ads ID under Settings → OpenConsent → Google Consent Mode v2, the visitor's browser loads `https://www.googletagmanager.com/gtag/js?id=<your ID>`. In Basic mode this happens only after the visitor allows the matching category (Analytics or Marketing); in Advanced mode it loads immediately and Google receives the Consent Mode signals (consent state, and in denied state cookieless pings). The data sent is whatever Google's tag collects for the configured ID (page URL, browser information, events).
+  Google Terms of Service: https://policies.google.com/terms
+  Google Privacy Policy: https://policies.google.com/privacy
+
+Scripts you add yourself in the settings (or gate by handle) run only after consent, and contact whichever services those scripts belong to.
+
 == Installation ==
 
 1. Upload the `open-consent` folder to `/wp-content/plugins/` or install the zip via Plugins → Add New → Upload.
