@@ -215,3 +215,18 @@ test('api: zh-HK resolves to yue via alias', async () => {
   eq(resolveLang('auto', { documentElement: { getAttribute: () => 'fil' } }, ['en', 'tl']), 'tl');
   eq(resolveLang('auto', { documentElement: { getAttribute: () => 'xx' } }, ['en']), 'en');
 });
+
+test('i18n: region files and aliases (pt-br, zh-tw, nb)', async () => {
+  const { resolveLang } = await import('../src/i18n.js');
+  const avail = ['en', 'id', 'pt', 'pt-br', 'zh', 'zh-tw', 'yue', 'nb'];
+  const r = (l) => resolveLang('auto', { documentElement: { getAttribute: () => l } }, avail);
+  eq(r('pt-BR'), 'pt-br');
+  eq(r('pt-PT'), 'pt');
+  eq(r('pt'), 'pt');
+  eq(r('zh-TW'), 'zh-tw');
+  eq(r('zh-Hant'), 'zh-tw');
+  eq(r('zh-HK'), 'yue');
+  eq(r('zh-CN'), 'zh');
+  eq(r('no'), 'nb');
+  eq(r('nb-NO'), 'nb');
+});

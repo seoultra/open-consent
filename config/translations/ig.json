@@ -1,0 +1,31 @@
+{
+  "banner": {
+    "title": "Anyị na-akwanyere ùgwù nzuzo gị",
+    "text": "Anyị na-eji kuki na teknụzụ yiri ya. Kuki ndị dị mkpa na-eme ka webụsaịtị rụọ ọrụ. Site n'ikike gị, anyị na-ejikwa kuki nhọrọ maka atụmatụ, nyocha na mgbasa ozi. Ị nwere ike ịnabata ha niile, jụ ha niile, ma ọ bụ họrọ otu otu, ma gbanwee uche gị n'oge ọ bụla.",
+    "acceptAll": "Nabata ha niile",
+    "rejectAll": "Jụ ha niile",
+    "customize": "Hazie",
+    "privacyPolicy": "Iwu nzuzo",
+    "cookiePolicy": "Iwu kuki"
+  },
+  "preferences": {
+    "title": "Nhọrọ kuki",
+    "text": "Họrọ otu nhọrọ ị na-ekwe ka e jiri. Enweghị ike ịmechi kuki ndị dị mkpa n'ihi na webụsaịtị adịghị arụ ọrụ na-enweghị ha.",
+    "save": "Chekwaa nhọrọ",
+    "acceptAll": "Nabata ha niile",
+    "rejectAll": "Jụ ha niile",
+    "close": "Mechie",
+    "alwaysActive": "Na-arụ ọrụ mgbe niile",
+    "on": "Mepere",
+    "off": "Emechiri"
+  },
+  "categories": {
+    "necessary": { "title": "Ndị dị mkpa", "description": "Achọrọ maka ọrụ bụ isi dị ka nchekwa, nkesa ibu na icheta nhọrọ nkwenye a." },
+    "functional": { "title": "Ọrụ", "description": "Na-echeta nhọrọ dị ka asụsụ ma ọ bụ mpaghara ma na-enyere atụmatụ e tinyere aka ịrụ ọrụ." },
+    "analytics": { "title": "Nyocha", "description": "Na-enyere anyị aka ịghọta ka e si eji webụsaịtị ka anyị wee meziwanye ya." },
+    "marketing": { "title": "Mgbasa ozi", "description": "A na-eji tụọ ma mee ka mgbasa ozi bụrụ nke onye ọ bụla n'ofe webụsaịtị dị iche iche." }
+  },
+  "reopen": "Nhọrọ kuki",
+  "blockedContent": "E mechiri ọdịnaya a ruo mgbe ị ga-ekwe ka ngalaba \"{category}\" rụọ ọrụ.",
+  "allowContent": "Kwe ya ma gosi ya"
+}

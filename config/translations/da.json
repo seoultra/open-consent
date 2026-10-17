@@ -1,0 +1,31 @@
+{
+  "banner": {
+    "title": "Vi værner om dit privatliv",
+    "text": "Vi bruger cookies og lignende teknologier. Nødvendige cookies sørger for, at websitet fungerer. Med dit samtykke bruger vi også valgfrie cookies til funktioner, statistik og marketing. Du kan acceptere alle, afvise alle eller vælge pr. kategori og til enhver tid ændre mening.",
+    "acceptAll": "Accepter alle",
+    "rejectAll": "Afvis alle",
+    "customize": "Tilpas",
+    "privacyPolicy": "Privatlivspolitik",
+    "cookiePolicy": "Cookiepolitik"
+  },
+  "preferences": {
+    "title": "Cookiepræferencer",
+    "text": "Vælg, hvilke valgfrie kategorier du vil tillade. Nødvendige cookies kan ikke slås fra, fordi websitet ikke fungerer uden dem.",
+    "save": "Gem præferencer",
+    "acceptAll": "Accepter alle",
+    "rejectAll": "Afvis alle",
+    "close": "Luk",
+    "alwaysActive": "Altid aktive",
+    "on": "Til",
+    "off": "Fra"
+  },
+  "categories": {
+    "necessary": { "title": "Nødvendige", "description": "Påkrævede til grundlæggende funktioner som sikkerhed, belastningsfordeling og husken af dit samtykkevalg." },
+    "functional": { "title": "Funktionelle", "description": "Husker præferencer som sprog eller område og muliggør indlejrede funktioner." },
+    "analytics": { "title": "Statistik", "description": "Hjælper os med at forstå, hvordan websitet bruges, så vi kan forbedre det." },
+    "marketing": { "title": "Marketing", "description": "Bruges til at måle og tilpasse annoncer på tværs af websteder." }
+  },
+  "reopen": "Cookiepræferencer",
+  "blockedContent": "Dette indhold er blokeret, indtil du tillader kategorien „{category}“.",
+  "allowContent": "Tillad og vis"
+}

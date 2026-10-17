@@ -1,0 +1,31 @@
+{
+  "banner": {
+    "title": "Rispettemu a vostra vita privata",
+    "text": "Usemu cookies è tecnulugie simili. I cookies necessarii mantenenu u situ in funzione. Cù u vostru permessu, usemu ancu cookies facultativi per e funzioni, l'analisi è u marketing. Pudete accettà li tutti, ricusà li tutti, o sceglie per categuria, è cambià idea in ogni mumentu.",
+    "acceptAll": "Accettà tuttu",
+    "rejectAll": "Ricusà tuttu",
+    "customize": "Persunalizà",
+    "privacyPolicy": "Pulitica di privacy",
+    "cookiePolicy": "Pulitica di i cookies"
+  },
+  "preferences": {
+    "title": "Preferenze di i cookies",
+    "text": "Scegliete e categurie facultative chì permettite. I cookies necessarii ùn ponu micca esse disattivati perchè u situ ùn funziona senza elli.",
+    "save": "Arregistrà e preferenze",
+    "acceptAll": "Accettà tuttu",
+    "rejectAll": "Ricusà tuttu",
+    "close": "Chjode",
+    "alwaysActive": "Sempre attivi",
+    "on": "Attivu",
+    "off": "Disattivu"
+  },
+  "categories": {
+    "necessary": { "title": "Necessarii", "description": "Richiesti per e funzioni di basa cum'è a sicurezza, a ripartizione di u carricu è a memorizazione di sta scelta di cunsensu." },
+    "functional": { "title": "Funzionali", "description": "Ricordanu preferenze cum'è a lingua o a regione è attivanu e funzioni integrate." },
+    "analytics": { "title": "Analitichi", "description": "Ci aiutanu à capisce cumu hè adupratu u situ per pudè migliurallu." },
+    "marketing": { "title": "Marketing", "description": "Adupratu per misurà è persunalizà a publicità nant'à i siti web." }
+  },
+  "reopen": "Preferenze di i cookies",
+  "blockedContent": "Stu cuntenutu hè bluccatu finu à chì permettite a categuria \"{category}\".",
+  "allowContent": "Permette è mostra"
+}

@@ -1,0 +1,31 @@
+{
+  "banner": {
+    "title": "Em qîmetê didin nepenîya we",
+    "text": "Em kukî û teknolojiyên wekhev bi kar tînin. Kukîyên pêwîst malperê dixebitînin. Bi destûra we em kukîyên bijarte jî ji bo taybetmendî, analîz û bazarkirinê bi kar tînin. Hûn dikarin hemûyan qebûl bikin, hemûyan red bikin an li gorî kategoriyê hilbijêrin, û her dem biryara xwe biguherin.",
+    "acceptAll": "Hemûyan qebûl bike",
+    "rejectAll": "Hemûyan red bike",
+    "customize": "Taybet bike",
+    "privacyPolicy": "Siyaseta nepenîyê",
+    "cookiePolicy": "Siyaseta kukîyan"
+  },
+  "preferences": {
+    "title": "Bijartinên kukîyan",
+    "text": "Hilbijêrin kîjan kategoriyên bijarte ji we re rê didin. Kukîyên pêwîst nayên girtin ji ber ku malper bêyî wan naxebite.",
+    "save": "Bijartinan tomar bike",
+    "acceptAll": "Hemûyan qebûl bike",
+    "rejectAll": "Hemûyan red bike",
+    "close": "Bigire",
+    "alwaysActive": "Her dem çalak",
+    "on": "Vekirî",
+    "off": "Girtî"
+  },
+  "categories": {
+    "necessary": { "title": "Pêwîst", "description": "Ji bo fonksiyonên bingehîn ên wekî ewlehî, hevsengkirina barê û bîranîna bijartina razîbûna we hewce ne." },
+    "functional": { "title": "Fonksiyonel", "description": "Bijartinên wekî ziman an herêmê tînin bîra xwe û taybetmendiyên têkelkirî çalak dikin." },
+    "analytics": { "title": "Analîtîk", "description": "Alîkariya me dikin ku fêm bikin malper çawa tê bikaranîn da ku em baştir bikin." },
+    "marketing": { "title": "Bazarkirin", "description": "Ji bo pîvandin û kesanekirina reklamên li ser malperên cuda tên bikaranîn." }
+  },
+  "reopen": "Bijartinên kukîyan",
+  "blockedContent": "Ev naverok heta ku hûn kategoriya \"{category}\" nehêlin hatiye astengkirin.",
+  "allowContent": "Destûr bide û nîşan bide"
+}

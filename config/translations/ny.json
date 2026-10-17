@@ -1,0 +1,31 @@
+{
+  "banner": {
+    "title": "Timalemekeza zinsinsi zanu",
+    "text": "Timagwiritsa ntchito ma cookie ndi umisiri wofanana. Ma cookie ofunikira amathandiza kuti tsambali ligwire ntchito. Mukatilola, timagwiritsanso ntchito ma cookie osankha pa zinthu zina, kusanthula ndi kutsatsa malonda. Mukhoza kuvomereza zonse, kukana zonse, kapena kusankha gulu lililonse, ndipo mukhoza kusintha maganizo anu nthawi iliyonse.",
+    "acceptAll": "Vomerezani zonse",
+    "rejectAll": "Kanani zonse",
+    "customize": "Sankhani nokha",
+    "privacyPolicy": "Mfundo zazinsinsi",
+    "cookiePolicy": "Mfundo za ma cookie"
+  },
+  "preferences": {
+    "title": "Zokonda pa ma cookie",
+    "text": "Sankhani magulu osankha omwe mukuwalola. Ma cookie ofunikira sangazimitsidwe chifukwa tsambali siligwira ntchito popanda iwo.",
+    "save": "Sungani zokonda",
+    "acceptAll": "Vomerezani zonse",
+    "rejectAll": "Kanani zonse",
+    "close": "Tsekani",
+    "alwaysActive": "Amagwira ntchito nthawi zonse",
+    "on": "Yayatsidwa",
+    "off": "Yazimitsidwa"
+  },
+  "categories": {
+    "necessary": { "title": "Ofunikira", "description": "Amafunika pa ntchito zoyambira monga chitetezo, kugawa katundu ndi kukumbukira kusankha kumeneku." },
+    "functional": { "title": "Ogwira ntchito", "description": "Amakumbukira zokonda monga chilankhulo kapena dera ndipo amathandiza zinthu zophatikizidwa kugwira ntchito." },
+    "analytics": { "title": "Kusanthula", "description": "Amatithandiza kumvetsa momwe tsambali limagwiritsidwira ntchito kuti tiliwongolere." },
+    "marketing": { "title": "Kutsatsa", "description": "Amagwiritsidwa ntchito poyeza ndi kusintha zotsatsa malinga ndi munthu pa mawebusayiti osiyanasiyana." }
+  },
+  "reopen": "Zokonda pa ma cookie",
+  "blockedContent": "Zomwe zili pano zatsekedwa mpaka mulole gulu la \"{category}\".",
+  "allowContent": "Lolani ndi kuwonetsa"
+}

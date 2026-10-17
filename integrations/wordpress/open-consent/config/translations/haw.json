@@ -1,0 +1,31 @@
+{
+  "banner": {
+    "title": "Mahalo mākou i kāu pilikino",
+    "text": "Hoʻohana mākou i nā kuki a me nā ʻenehana like. Hoʻokō nā kuki pono i ka pūnaewele. Me kāu ʻae ʻana, hoʻohana pū mākou i nā kuki koho no nā hiʻona, ka loiloi a me ke kūʻai aku. Hiki iā ʻoe ke ʻae i nā mea a pau, hōʻole i nā mea a pau, a koho paha ma kēlā mea kēia mea, a hoʻololi i kou manaʻo i kēlā me kēia manawa.",
+    "acceptAll": "ʻAe i nā mea a pau",
+    "rejectAll": "Hōʻole i nā mea a pau",
+    "customize": "Hoʻomākaukau",
+    "privacyPolicy": "Kulekele pilikino",
+    "cookiePolicy": "Kulekele kuki"
+  },
+  "preferences": {
+    "title": "Nā koho kuki",
+    "text": "E koho i nā ʻāpana koho āu e ʻae ai. ʻAʻole hiki ke hoʻopau i nā kuki pono no ka mea ʻaʻole hana ka pūnaewele inā ʻaʻohe.",
+    "save": "Mālama i nā koho",
+    "acceptAll": "ʻAe i nā mea a pau",
+    "rejectAll": "Hōʻole i nā mea a pau",
+    "close": "Pani",
+    "alwaysActive": "Hana mau",
+    "on": "Hoʻā",
+    "off": "Hoʻopau"
+  },
+  "categories": {
+    "necessary": { "title": "Pono", "description": "Pono no nā hana kumu e like me ka palekana, ka hoʻokaʻawale ʻana i ka ukana a me ka hoʻomanaʻo i kēia koho ʻae." },
+    "functional": { "title": "Hana", "description": "Hoʻomanaʻo i nā koho e like me ka ʻōlelo a i ʻole ka ʻāina a hoʻā i nā hiʻona i hoʻokomo ʻia." },
+    "analytics": { "title": "Loiloi", "description": "Kōkua iā mākou e hoʻomaopopo i ka hoʻohana ʻia ʻana o ka pūnaewele i hiki iā mākou ke hoʻomaikaʻi." },
+    "marketing": { "title": "Kūʻai aku", "description": "Hoʻohana ʻia e ana a hoʻopilikino i ka hoʻolaha ma nā pūnaewele like ʻole." }
+  },
+  "reopen": "Nā koho kuki",
+  "blockedContent": "Ua pāpā ʻia kēia maʻiʻo a hiki i kou ʻae ʻana i ka ʻāpana \"{category}\".",
+  "allowContent": "ʻAe a hōʻike"
+}

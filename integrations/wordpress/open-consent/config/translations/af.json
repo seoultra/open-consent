@@ -1,0 +1,31 @@
+{
+  "banner": {
+    "title": "Ons waardeer jou privaatheid",
+    "text": "Ons gebruik koekies en soortgelyke tegnologieë. Noodsaaklike koekies hou die webwerf aan die werk. Met jou toestemming gebruik ons ook opsionele koekies vir funksies, ontleding en bemarking. Jy kan alles aanvaar, alles weier, of per kategorie kies, en jou besluit enige tyd verander.",
+    "acceptAll": "Aanvaar alles",
+    "rejectAll": "Weier alles",
+    "customize": "Pasmaak",
+    "privacyPolicy": "Privaatheidsbeleid",
+    "cookiePolicy": "Koekiebeleid"
+  },
+  "preferences": {
+    "title": "Koekievoorkeure",
+    "text": "Kies watter opsionele kategorieë jy toelaat. Noodsaaklike koekies kan nie afgeskakel word nie omdat die webwerf nie daarsonder werk nie.",
+    "save": "Stoor voorkeure",
+    "acceptAll": "Aanvaar alles",
+    "rejectAll": "Weier alles",
+    "close": "Maak toe",
+    "alwaysActive": "Altyd aktief",
+    "on": "Aan",
+    "off": "Af"
+  },
+  "categories": {
+    "necessary": { "title": "Noodsaaklik", "description": "Benodig vir basiese funksies soos sekuriteit, lasbalansering en om hierdie toestemmingskeuse te onthou." },
+    "functional": { "title": "Funksioneel", "description": "Onthou voorkeure soos taal of streek en aktiveer ingebedde funksies." },
+    "analytics": { "title": "Ontleding", "description": "Help ons verstaan hoe die webwerf gebruik word sodat ons dit kan verbeter." },
+    "marketing": { "title": "Bemarking", "description": "Word gebruik om advertensies oor webwerwe heen te meet en te personaliseer." }
+  },
+  "reopen": "Koekievoorkeure",
+  "blockedContent": "Hierdie inhoud is geblokkeer totdat jy die kategorie \"{category}\" toelaat.",
+  "allowContent": "Laat toe en wys"
+}

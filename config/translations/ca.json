@@ -1,0 +1,31 @@
+{
+  "banner": {
+    "title": "Valorem la teva privadesa",
+    "text": "Fem servir galetes i tecnologies similars. Les galetes necessàries mantenen el lloc web en funcionament. Amb el teu permís, també fem servir galetes opcionals per a funcionalitats, analítica i màrqueting. Pots acceptar-les totes, rebutjar-les totes o triar per categoria, i canviar d’opinió en qualsevol moment.",
+    "acceptAll": "Accepta-ho tot",
+    "rejectAll": "Rebutja-ho tot",
+    "customize": "Personalitza",
+    "privacyPolicy": "Política de privadesa",
+    "cookiePolicy": "Política de galetes"
+  },
+  "preferences": {
+    "title": "Preferències de galetes",
+    "text": "Tria quines categories opcionals permets. Les galetes necessàries no es poden desactivar perquè el lloc web no funciona sense elles.",
+    "save": "Desa les preferències",
+    "acceptAll": "Accepta-ho tot",
+    "rejectAll": "Rebutja-ho tot",
+    "close": "Tanca",
+    "alwaysActive": "Sempre actives",
+    "on": "Activat",
+    "off": "Desactivat"
+  },
+  "categories": {
+    "necessary": { "title": "Necessàries", "description": "Imprescindibles per a funcions bàsiques com la seguretat, l’equilibri de càrrega i recordar aquesta elecció de consentiment." },
+    "functional": { "title": "Funcionals", "description": "Recorden preferències com l’idioma o la regió i activen funcionalitats incrustades." },
+    "analytics": { "title": "Analítiques", "description": "Ens ajuden a entendre com s’utilitza el lloc web per poder millorar-lo." },
+    "marketing": { "title": "Màrqueting", "description": "S’utilitzen per mesurar i personalitzar la publicitat a diferents llocs web." }
+  },
+  "reopen": "Preferències de galetes",
+  "blockedContent": "Aquest contingut està bloquejat fins que permetis la categoria «{category}».",
+  "allowContent": "Permet i mostra"
+}

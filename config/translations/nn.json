@@ -1,0 +1,31 @@
+{
+  "banner": {
+    "title": "Vi tek personvernet ditt på alvor",
+    "text": "Vi bruker informasjonskapslar (cookies) og liknande teknologiar. Naudsynte informasjonskapslar gjer at nettstaden fungerer. Med samtykket ditt bruker vi òg valfrie informasjonskapslar til funksjonar, statistikk og marknadsføring. Du kan godta alle, avvise alle eller velje per kategori, og når som helst ombestemme deg.",
+    "acceptAll": "Godta alle",
+    "rejectAll": "Avvis alle",
+    "customize": "Tilpass",
+    "privacyPolicy": "Personvernfråsegn",
+    "cookiePolicy": "Retningslinjer for informasjonskapslar"
+  },
+  "preferences": {
+    "title": "Innstillingar for informasjonskapslar",
+    "text": "Vel kva for valfrie kategoriar du tillèt. Naudsynte informasjonskapslar kan ikkje slåast av, fordi nettstaden ikkje fungerer utan dei.",
+    "save": "Lagre innstillingar",
+    "acceptAll": "Godta alle",
+    "rejectAll": "Avvis alle",
+    "close": "Lukk",
+    "alwaysActive": "Alltid aktive",
+    "on": "På",
+    "off": "Av"
+  },
+  "categories": {
+    "necessary": { "title": "Naudsynte", "description": "Krevst for grunnleggjande funksjonar som tryggleik, lastbalansering og for å hugse samtykkevalet ditt." },
+    "functional": { "title": "Funksjonelle", "description": "Hugsar innstillingar som språk eller region og gjer innebygde funksjonar mogleg." },
+    "analytics": { "title": "Statistikk", "description": "Hjelper oss å forstå korleis nettstaden blir brukt, slik at vi kan gjere han betre." },
+    "marketing": { "title": "Marknadsføring", "description": "Blir brukt til å måle og tilpasse annonsar på tvers av nettstader." }
+  },
+  "reopen": "Innstillingar for informasjonskapslar",
+  "blockedContent": "Dette innhaldet er blokkert til du tillèt kategorien «{category}».",
+  "allowContent": "Tillat og vis"
+}

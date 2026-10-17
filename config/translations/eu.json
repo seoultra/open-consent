@@ -1,0 +1,31 @@
+{
+  "banner": {
+    "title": "Zure pribatutasuna baloratzen dugu",
+    "text": "Cookieak eta antzeko teknologiak erabiltzen ditugu. Beharrezko cookieek webgunea funtzionatzen mantentzen dute. Zure baimenarekin, aukerako cookieak ere erabiltzen ditugu eginbideetarako, analitikarako eta marketinerako. Guztiak onartu ditzakezu, guztiak baztertu, edo kategoria bakoitza aukeratu, eta iritzia edonoiz alda dezakezu.",
+    "acceptAll": "Onartu guztiak",
+    "rejectAll": "Baztertu guztiak",
+    "customize": "Pertsonalizatu",
+    "privacyPolicy": "Pribatutasun-politika",
+    "cookiePolicy": "Cookie-politika"
+  },
+  "preferences": {
+    "title": "Cookie-hobespenak",
+    "text": "Aukeratu zein aukerako kategoria baimentzen dituzun. Beharrezko cookieak ezin dira desaktibatu, webgunea ez baita haiek gabe funtzionatzen.",
+    "save": "Gorde hobespenak",
+    "acceptAll": "Onartu guztiak",
+    "rejectAll": "Baztertu guztiak",
+    "close": "Itxi",
+    "alwaysActive": "Beti aktibo",
+    "on": "Aktibatuta",
+    "off": "Desaktibatuta"
+  },
+  "categories": {
+    "necessary": { "title": "Beharrezkoak", "description": "Oinarrizko funtzioetarako beharrezkoak, hala nola segurtasuna, karga-banaketa eta baimen-aukera hau gogoratzea." },
+    "functional": { "title": "Funtzionalak", "description": "Hobespenak gogoratzen dituzte, hala nola hizkuntza edo eskualdea, eta txertatutako eginbideak gaitzen dituzte." },
+    "analytics": { "title": "Analitikoak", "description": "Webgunea nola erabiltzen den ulertzen laguntzen digute, hura hobetu ahal izateko." },
+    "marketing": { "title": "Marketinekoak", "description": "Webguneetan zehar publizitatea neurtzeko eta pertsonalizatzeko erabiltzen dira." }
+  },
+  "reopen": "Cookie-hobespenak",
+  "blockedContent": "Eduki hau blokeatuta dago \"{category}\" kategoria baimendu arte.",
+  "allowContent": "Baimendu eta erakutsi"
+}

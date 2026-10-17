@@ -1,0 +1,31 @@
+{
+  "banner": {
+    "title": "Hindame sinu privaatsust",
+    "text": "Kasutame küpsiseid ja sarnaseid tehnoloogiaid. Vajalikud küpsised tagavad saidi toimimise. Sinu loal kasutame ka valikulisi küpsiseid funktsioonide, analüütika ja turunduse jaoks. Saad nõustuda kõigiga, keelduda kõigist või valida kategooriate kaupa ning oma otsust igal ajal muuta.",
+    "acceptAll": "Nõustu kõigiga",
+    "rejectAll": "Keeldu kõigist",
+    "customize": "Kohanda",
+    "privacyPolicy": "Privaatsuspoliitika",
+    "cookiePolicy": "Küpsisepoliitika"
+  },
+  "preferences": {
+    "title": "Küpsiste eelistused",
+    "text": "Vali, milliseid valikulisi kategooriaid lubad. Vajalikke küpsiseid ei saa välja lülitada, sest ilma nendeta sait ei toimi.",
+    "save": "Salvesta eelistused",
+    "acceptAll": "Nõustu kõigiga",
+    "rejectAll": "Keeldu kõigist",
+    "close": "Sulge",
+    "alwaysActive": "Alati aktiivne",
+    "on": "Sees",
+    "off": "Väljas"
+  },
+  "categories": {
+    "necessary": { "title": "Vajalikud", "description": "Vajalikud põhifunktsioonideks, nagu turvalisus, koormuse jaotamine ja selle nõusolekuvaliku meelespidamine." },
+    "functional": { "title": "Funktsionaalsed", "description": "Jätavad meelde eelistused, nagu keel või piirkond, ning võimaldavad manustatud funktsioone." },
+    "analytics": { "title": "Analüütika", "description": "Aitavad meil mõista, kuidas saiti kasutatakse, et saaksime seda parandada." },
+    "marketing": { "title": "Turundus", "description": "Kasutatakse reklaami mõõtmiseks ja isikupärastamiseks erinevatel veebisaitidel." }
+  },
+  "reopen": "Küpsiste eelistused",
+  "blockedContent": "See sisu on blokeeritud, kuni lubad kategooria „{category}“.",
+  "allowContent": "Luba ja näita"
+}

@@ -1,0 +1,31 @@
+{
+  "banner": {
+    "title": "Nou respekte vi prive ou",
+    "text": "Nou itilize cookie ak teknoloji ki sanble. Cookie ki nesesè yo fè sit la mache. Avèk pèmisyon ou, nou itilize tou cookie opsyonèl pou fonksyonalite, analiz ak maketing. Ou ka aksepte tout, rejte tout, oswa chwazi pa kategori, epi chanje lide ou nenpòt ki lè.",
+    "acceptAll": "Aksepte tout",
+    "rejectAll": "Rejte tout",
+    "customize": "Pèsonalize",
+    "privacyPolicy": "Politik vi prive",
+    "cookiePolicy": "Politik cookie"
+  },
+  "preferences": {
+    "title": "Preferans cookie",
+    "text": "Chwazi ki kategori opsyonèl ou pèmèt. Ou pa ka dezaktive cookie ki nesesè yo paske sit la pa mache san yo.",
+    "save": "Anrejistre preferans yo",
+    "acceptAll": "Aksepte tout",
+    "rejectAll": "Rejte tout",
+    "close": "Fèmen",
+    "alwaysActive": "Toujou aktif",
+    "on": "Aktive",
+    "off": "Dezaktive"
+  },
+  "categories": {
+    "necessary": { "title": "Nesesè", "description": "Obligatwa pou fonksyon de baz tankou sekirite, ekilib chaj ak sonje chwa konsantman sa a." },
+    "functional": { "title": "Fonksyonèl", "description": "Sonje preferans tankou lang oswa rejyon epi aktive fonksyonalite entegre yo." },
+    "analytics": { "title": "Analitik", "description": "Ede nou konprann kijan yo itilize sit la pou nou ka amelyore li." },
+    "marketing": { "title": "Maketing", "description": "Itilize pou mezire ak pèsonalize piblisite sou plizyè sit wèb." }
+  },
+  "reopen": "Preferans cookie",
+  "blockedContent": "Kontni sa a bloke jiskaske ou pèmèt kategori \"{category}\" la.",
+  "allowContent": "Pèmèt epi montre"
+}

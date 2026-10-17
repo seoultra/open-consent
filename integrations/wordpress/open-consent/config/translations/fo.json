@@ -1,0 +1,31 @@
+{
+  "banner": {
+    "title": "Vit virða tína privatsfæru",
+    "text": "Vit brúka cookies og líknandi tøkni. Neyðugar cookies halda heimasíðuni gangandi. Við tínum loyvi brúka vit eisini valfrí cookies til funktiónir, greining og marknaðarføring. Tú kanst góðtaka alt, noktað alt ella valt eftir bólki, og broytt hugsan hvørja løtu.",
+    "acceptAll": "Góðtak alt",
+    "rejectAll": "Nokta alt",
+    "customize": "Tillaga",
+    "privacyPolicy": "Privatsfærupolitikkur",
+    "cookiePolicy": "Cookie-politikkur"
+  },
+  "preferences": {
+    "title": "Cookie-stillingar",
+    "text": "Vel hvørjar valfríar bólkar tú loyvir. Neyðugar cookies kunnu ikki sløkkjast, tí heimasíðan virkar ikki uttan tær.",
+    "save": "Goym stillingar",
+    "acceptAll": "Góðtak alt",
+    "rejectAll": "Nokta alt",
+    "close": "Lat aftur",
+    "alwaysActive": "Altíð virkið",
+    "on": "Tendrað",
+    "off": "Sløkt"
+  },
+  "categories": {
+    "necessary": { "title": "Neyðugt", "description": "Neyðugt til grundleggjandi funktiónir sum trygd, byrðudeiling og at minnast hetta samtyktarvalið." },
+    "functional": { "title": "Funktionelt", "description": "Minnast stillingar sum mál ella øki og gera innbygdar funktiónir virknar." },
+    "analytics": { "title": "Greining", "description": "Hjálpa okkum at skilja, hvussu heimasíðan verður brúkt, so vit kunnu bøta hana." },
+    "marketing": { "title": "Marknaðarføring", "description": "Verður brúkt til at máta og tillaga lýsingar á ymiskum heimasíðum." }
+  },
+  "reopen": "Cookie-stillingar",
+  "blockedContent": "Hetta innihaldið er forðað, til tú loyvir bólkin \"{category}\".",
+  "allowContent": "Loyv og vís"
+}

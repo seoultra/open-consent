@@ -14,7 +14,10 @@ namespace SeoUltra\OpenConsent;
 final class Translations
 {
     /** Locale aliases → file codes (same table as packages/web/src/i18n.js LANG_ALIASES). */
-    public const ALIASES = ['zh-hk' => 'yue', 'zh-mo' => 'yue', 'fil' => 'tl', 'es-mx' => 'es', 'in' => 'id', 'zsm' => 'ms'];
+    public const ALIASES = [
+        'zh-hk' => 'yue', 'zh-mo' => 'yue', 'zh-hant' => 'zh-tw', 'zh-hans' => 'zh', 'zh-cn' => 'zh', 'zh-sg' => 'zh',
+        'fil' => 'tl', 'es-mx' => 'es', 'in' => 'id', 'zsm' => 'ms', 'no' => 'nb', 'iw' => 'he', 'ji' => 'yi', 'ku' => 'kmr', 'pt-pt' => 'pt', 'mo' => 'ro',
+    ];
 
     /** Languages compiled into dist/open-consent.js. */
     public const BUILTIN = ['en', 'id'];
@@ -47,7 +50,7 @@ final class Translations
     /** @return array<string, mixed>|null */
     public static function get(string $code): ?array
     {
-        if (preg_match('/^[a-z]{2,3}$/D', $code) !== 1) {
+        if (preg_match('/^[a-z]{2,3}(-[a-z]{2,4})?$/D', $code) !== 1) {
             return null;
         }
         $file = Paths::root() . '/config/translations/' . $code . '.json';

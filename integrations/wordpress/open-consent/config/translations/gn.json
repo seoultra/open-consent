@@ -1,0 +1,31 @@
+{
+  "banner": {
+    "title": "Roporombojerovia nde privacidad rehe",
+    "text": "Roiporu cookie ha tecnología ojoguáva. Umi cookie tekotevẽva omba'apo hag̃ua pe sitio web. Nde permiso reheve, roiporu avei cookie opcional umi funcion, analítica ha marketing rehegua. Ikatu reipyhy opa, rembotyry opa, térã eiporavo sapy'a sapy'a categoría, ha emoambue nde remiandu oimeraẽ ára.",
+    "acceptAll": "Ipyhy opa",
+    "rejectAll": "Mboyve opa",
+    "customize": "Emoĩporã",
+    "privacyPolicy": "Privacidad rembiapoukapy",
+    "cookiePolicy": "Cookie rembiapoukapy"
+  },
+  "preferences": {
+    "title": "Cookie poravopyre",
+    "text": "Eiporavo mava categoría opcional reheja hag̃ua. Umi cookie tekotevẽva ndaikatúi ojepe'a ndaupéichairõ pe sitio ndoikói.",
+    "save": "Eñongatu poravopyre",
+    "acceptAll": "Ipyhy opa",
+    "rejectAll": "Mboyve opa",
+    "close": "Emboty",
+    "alwaysActive": "Ojapo meme",
+    "on": "Hendy",
+    "off": "Opa"
+  },
+  "categories": {
+    "necessary": { "title": "Tekotevẽva", "description": "Oñeikotevẽ umi tembiapo ñepyrũrã rehe, seguridad, mbohasa ha ñanemandu'a kóva poravopyre." },
+    "functional": { "title": "Funcional", "description": "Imandu'a poravopyre ñe'ẽ térã tetãguáva ha omoingo umi funcion ojejapóva." },
+    "analytics": { "title": "Analítica", "description": "Oipytyvõ ñandéve roikuaa hag̃ua mba'éichapa oiporu pe sitio, romoporãve hag̃ua." },
+    "marketing": { "title": "Marketing", "description": "Oiporu ojepuru oñemedi ha omoĩporã marandu heta sitio web-pe." }
+  },
+  "reopen": "Cookie poravopyre",
+  "blockedContent": "Ko contenido ojejoko reheja meve categoría \"{category}\".",
+  "allowContent": "Eheja ha ehechauka"
+}

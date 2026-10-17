@@ -1,0 +1,31 @@
+{
+  "banner": {
+    "title": "Nous respectons votre vie privée",
+    "text": "Nous utilisons des cookies et des technologies similaires. Les cookies nécessaires assurent le fonctionnement du site. Avec votre accord, nous utilisons aussi des cookies facultatifs pour des fonctionnalités, des statistiques et du marketing. Vous pouvez tout accepter, tout refuser ou choisir par catégorie, et modifier votre choix à tout moment.",
+    "acceptAll": "Tout accepter",
+    "rejectAll": "Tout refuser",
+    "customize": "Personnaliser",
+    "privacyPolicy": "Politique de confidentialité",
+    "cookiePolicy": "Politique relative aux cookies"
+  },
+  "preferences": {
+    "title": "Préférences en matière de cookies",
+    "text": "Choisissez les catégories facultatives que vous autorisez. Les cookies nécessaires ne peuvent pas être désactivés, car le site ne fonctionne pas sans eux.",
+    "save": "Enregistrer les préférences",
+    "acceptAll": "Tout accepter",
+    "rejectAll": "Tout refuser",
+    "close": "Fermer",
+    "alwaysActive": "Toujours actifs",
+    "on": "Activé",
+    "off": "Désactivé"
+  },
+  "categories": {
+    "necessary": { "title": "Nécessaires", "description": "Indispensables aux fonctions de base, comme la sécurité, la répartition de charge et la mémorisation de votre choix en matière de cookies." },
+    "functional": { "title": "Fonctionnels", "description": "Mémorisent des préférences comme la langue ou la région et activent des fonctionnalités intégrées." },
+    "analytics": { "title": "Statistiques", "description": "Nous aident à comprendre comment le site est utilisé afin de l'améliorer." },
+    "marketing": { "title": "Marketing", "description": "Servent à mesurer et à personnaliser la publicité sur différents sites." }
+  },
+  "reopen": "Préférences en matière de cookies",
+  "blockedContent": "Ce contenu est bloqué tant que vous n'autorisez pas la catégorie « {category} ».",
+  "allowContent": "Autoriser et afficher"
+}

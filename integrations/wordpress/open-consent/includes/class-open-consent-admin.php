@@ -105,7 +105,7 @@ final class Open_Consent_Admin {
 			array( 'scripts_marketing', __( 'Marketing scripts', 'open-consent' ), 'code', 'blocking' ),
 			array( 'disabled_pages', __( 'Do not load on page/post IDs', 'open-consent' ), 'text', 'advanced', null, __( 'Comma-separated IDs. Gated scripts stay inert on these pages.', 'open-consent' ) ),
 			array( 'reload_on_withdraw', __( 'Reload the page after consent is withdrawn', 'open-consent' ), 'checkbox', 'advanced', null, __( 'Scripts that already ran cannot be stopped; a reload guarantees they are gone.', 'open-consent' ) ),
-			array( 'lang', __( 'Banner language', 'open-consent' ), 'text', 'advanced', null, __( '"auto" follows the page language (built-in: en, id; others fall back to English).', 'open-consent' ) ),
+			array( 'lang', __( 'Banner language', 'open-consent' ), 'text', 'advanced', null, __( '"auto" follows the page language. 125 languages are available; the site language is added automatically.', 'open-consent' ) ),
 			array( 'delete_on_uninstall', __( 'Delete settings when the plugin is uninstalled', 'open-consent' ), 'checkbox', 'advanced' ),
 		);
 		foreach ( $f as $field ) {

@@ -3,6 +3,14 @@
 All notable changes are documented here. Format: [Keep a Changelog](https://keepachangelog.com/),
 versioning: [SemVer](https://semver.org/).
 
+## [0.2.0] — 2026-10-17
+
+### Added
+- Widget translations for 98 more languages — 125 in total (`config/translations/`), including region
+  variants `pt-br` and `zh-tw`. Machine-assisted; native-speaker review welcome.
+- Locale aliases (`no`→`nb`, `zh-Hant`→`zh-tw`, `zh-HK`→`yue`, `iw`→`he`, `ku`→`kmr`, …) in JS and PHP.
+- Translation files may use a region suffix (`xx-yy`); the build checks every file's keys against `en.json`.
+
 ## [0.1.0] — 2026-10-17
 
 First release.

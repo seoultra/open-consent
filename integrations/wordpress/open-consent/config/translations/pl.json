@@ -1,0 +1,31 @@
+{
+  "banner": {
+    "title": "Szanujemy Twoją prywatność",
+    "text": "Używamy plików cookie i podobnych technologii. Niezbędne pliki cookie zapewniają działanie witryny. Za Twoją zgodą korzystamy też z opcjonalnych plików cookie do celów funkcjonalnych, analitycznych i marketingowych. Możesz zaakceptować wszystkie, odrzucić wszystkie lub wybrać według kategorii, a swoją decyzję zmienić w dowolnym momencie.",
+    "acceptAll": "Akceptuj wszystkie",
+    "rejectAll": "Odrzuć wszystkie",
+    "customize": "Dostosuj",
+    "privacyPolicy": "Polityka prywatności",
+    "cookiePolicy": "Polityka plików cookie"
+  },
+  "preferences": {
+    "title": "Ustawienia plików cookie",
+    "text": "Wybierz, na które opcjonalne kategorie wyrażasz zgodę. Niezbędnych plików cookie nie można wyłączyć, ponieważ witryna nie działa bez nich.",
+    "save": "Zapisz ustawienia",
+    "acceptAll": "Akceptuj wszystkie",
+    "rejectAll": "Odrzuć wszystkie",
+    "close": "Zamknij",
+    "alwaysActive": "Zawsze aktywne",
+    "on": "Wł.",
+    "off": "Wył."
+  },
+  "categories": {
+    "necessary": { "title": "Niezbędne", "description": "Wymagane do podstawowych funkcji, takich jak bezpieczeństwo, równoważenie obciążenia i zapamiętanie Twojego wyboru dotyczącego zgody." },
+    "functional": { "title": "Funkcjonalne", "description": "Zapamiętują preferencje, takie jak język lub region, i umożliwiają działanie osadzonych funkcji." },
+    "analytics": { "title": "Analityczne", "description": "Pomagają nam zrozumieć, jak korzysta się z witryny, abyśmy mogli ją ulepszać." },
+    "marketing": { "title": "Marketingowe", "description": "Służą do mierzenia i personalizacji reklam w różnych witrynach." }
+  },
+  "reopen": "Ustawienia plików cookie",
+  "blockedContent": "Ta treść jest zablokowana, dopóki nie zezwolisz na kategorię „{category}”.",
+  "allowContent": "Zezwól i pokaż"
+}

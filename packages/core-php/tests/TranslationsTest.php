@@ -31,6 +31,12 @@ final class TranslationsTest extends TestCase
         $this->assertSame([], Translations::textsFor('en_US'), 'built-in: nothing to inject');
         $this->assertSame([], Translations::textsFor('id_ID'));
         $this->assertNull(Translations::get('../en'));
+        $this->assertNull(Translations::get('pt-br/../en'));
+        foreach (['pt_BR' => 'pt-br', 'pt_PT' => 'pt', 'zh_TW' => 'zh-tw', 'zh_HK' => 'yue', 'zh_CN' => 'zh', 'nb_NO' => 'nb', 'de_DE_formal' => 'de'] as $locale => $code) {
+            if (in_array($code, Translations::available(), true)) {
+                $this->assertSame($code, Translations::resolve($locale), $locale);
+            }
+        }
     }
 
     /** @return list<string> */

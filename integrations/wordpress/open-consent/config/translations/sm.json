@@ -1,0 +1,31 @@
+{
+  "banner": {
+    "title": "Matou te faatāua lou le faaleaganuu",
+    "text": "Matou te faaaogā kuki ma tekonolosi faapena. O kuki e manaʻomia e faagaoioi ai le 'upega tafaʻilagi. Faatasi ma lou faatagaga, matou te faaaogā foʻi kuki filifilia mo āiaiga, iloiloga ma le faatauga. E mafai ona e talia uma, teena uma, pe filifili i ituaiga ta'ito'atasi, ma suia lou mafaufau i soo se taimi.",
+    "acceptAll": "Talia uma",
+    "rejectAll": "Teena uma",
+    "customize": "Faatulaga",
+    "privacyPolicy": "Faiga faavae o le faaleaganuu",
+    "cookiePolicy": "Faiga faavae o kuki"
+  },
+  "preferences": {
+    "title": "Filifiliga o kuki",
+    "text": "Filifili po o fea ituaiga filifilia e te faatagaina. E le mafai ona tape kuki e manaʻomia ona e le galue le 'upega tafaʻilagi pe a leai.",
+    "save": "Teu filifiliga",
+    "acceptAll": "Talia uma",
+    "rejectAll": "Teena uma",
+    "close": "Tapuni",
+    "alwaysActive": "Faagaoioi i taimi uma",
+    "on": "Tatala",
+    "off": "Tape"
+  },
+  "categories": {
+    "necessary": { "title": "Manaʻomia", "description": "E manaʻomia mo galuega autū e pei o le saogalemu, le tufatufaina o uta ma le manatua o lenei filifiliga o le talia." },
+    "functional": { "title": "Galuega", "description": "Manatua filifiliga e pei o le gagana po o le itulagi ma faagaoioi āiaiga ua faapipiʻi." },
+    "analytics": { "title": "Iloiloga", "description": "Fesoasoani ia i matou e malamalama i le faaaogā o le 'upega tafaʻilagi ina ia mafai ona faaleleia." },
+    "marketing": { "title": "Faatauga", "description": "Faaaogā e fuaina ma faaautu faasalalauga i 'upega tafaʻilagi eseese." }
+  },
+  "reopen": "Filifiliga o kuki",
+  "blockedContent": "Ua poloka lenei mea seʻia e faatagaina le ituaiga \"{category}\".",
+  "allowContent": "Faatagaina ma faaali"
+}

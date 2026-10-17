@@ -1,0 +1,31 @@
+{
+  "banner": {
+    "title": "Cenimo vašo zasebnost",
+    "text": "Uporabljamo piškotke in podobne tehnologije. Nujni piškotki omogočajo delovanje spletnega mesta. Z vašim soglasjem uporabljamo tudi izbirne piškotke za funkcije, analitiko in trženje. Sprejmete lahko vse, zavrnete vse ali izberete po kategorijah ter svojo odločitev kadar koli spremenite.",
+    "acceptAll": "Sprejmi vse",
+    "rejectAll": "Zavrni vse",
+    "customize": "Prilagodi",
+    "privacyPolicy": "Politika zasebnosti",
+    "cookiePolicy": "Politika piškotkov"
+  },
+  "preferences": {
+    "title": "Nastavitve piškotkov",
+    "text": "Izberite, katere izbirne kategorije dovolite. Nujnih piškotkov ni mogoče izklopiti, ker spletno mesto brez njih ne deluje.",
+    "save": "Shrani nastavitve",
+    "acceptAll": "Sprejmi vse",
+    "rejectAll": "Zavrni vse",
+    "close": "Zapri",
+    "alwaysActive": "Vedno aktivni",
+    "on": "Vklopljeno",
+    "off": "Izklopljeno"
+  },
+  "categories": {
+    "necessary": { "title": "Nujni", "description": "Potrebni za osnovne funkcije, kot so varnost, uravnoteženje obremenitve in pomnjenje vaše izbire glede soglasja." },
+    "functional": { "title": "Funkcionalni", "description": "Si zapomnijo nastavitve, kot sta jezik ali regija, in omogočajo vgrajene funkcije." },
+    "analytics": { "title": "Analitični", "description": "Pomagajo nam razumeti, kako se spletno mesto uporablja, da ga lahko izboljšamo." },
+    "marketing": { "title": "Marketinški", "description": "Uporabljeni za merjenje in prilagajanje oglasov na različnih spletnih mestih." }
+  },
+  "reopen": "Nastavitve piškotkov",
+  "blockedContent": "Ta vsebina je blokirana, dokler ne dovolite kategorije »{category}«.",
+  "allowContent": "Dovoli in prikaži"
+}

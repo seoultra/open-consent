@@ -1,0 +1,31 @@
+{
+  "banner": {
+    "title": "Twubaha ubuzima bwawe bwite",
+    "text": "Dukoresha cookies n'ikoranabuhanga risa na zo. Cookies z'ingenzi zituma urubuga rukora. Ubyemeye, dukoresha kandi cookies z'ubushake ku bikorwa byihariye, isesengura n'iyamamazabikorwa. Ushobora kwemera zose, kwanga zose, cyangwa guhitamo ukurikije icyiciro, ukanahindura icyemezo cyawe igihe icyo ari cyo cyose.",
+    "acceptAll": "Emera byose",
+    "rejectAll": "Anga byose",
+    "customize": "Hitamo",
+    "privacyPolicy": "Politiki y'ubuzima bwite",
+    "cookiePolicy": "Politiki ya cookies"
+  },
+  "preferences": {
+    "title": "Amahitamo ya cookies",
+    "text": "Hitamo ibyiciro by'ubushake wemera. Cookies z'ingenzi ntizishobora kuzimywa kuko urubuga rudakora zitari zo.",
+    "save": "Bika amahitamo",
+    "acceptAll": "Emera byose",
+    "rejectAll": "Anga byose",
+    "close": "Funga",
+    "alwaysActive": "Zihora zikora",
+    "on": "Bifunguye",
+    "off": "Bifunze"
+  },
+  "categories": {
+    "necessary": { "title": "Iz'ingenzi", "description": "Zikenewe ku mirimo y'ibanze nko gutanga umutekano, kugabanya umutwaro no kwibuka iri hitamo ry'uruhushya." },
+    "functional": { "title": "Iz'imikorere", "description": "Zibuka amahitamo nk'ururimi cyangwa akarere kandi zigashoboza ibikorwa byashyizwemo." },
+    "analytics": { "title": "Isesengura", "description": "Zidufasha kumva uko urubuga rukoreshwa kugira ngo turunoze." },
+    "marketing": { "title": "Iyamamazabikorwa", "description": "Zikoreshwa mu gupima no kugena amatangazo ajyanye n'umuntu ku mbuga zitandukanye." }
+  },
+  "reopen": "Amahitamo ya cookies",
+  "blockedContent": "Ibi bikubiyemo birafunze kugeza wemeye icyiciro cya \"{category}\".",
+  "allowContent": "Emera maze ubyerekane"
+}

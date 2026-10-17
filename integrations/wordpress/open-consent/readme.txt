@@ -4,7 +4,7 @@ Tags: cookie consent, cookie banner, consent mode, gdpr, privacy
 Requires at least: 6.2
 Tested up to: 7.1
 Requires PHP: 8.1
-Stable tag: 0.1.0
+Stable tag: 0.2.0
 License: GPL-2.0-or-later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
@@ -20,7 +20,7 @@ OpenConsent shows an accessible cookie banner, stores the visitor's choice in a 
 * Google Consent Mode v2 (ad_storage, ad_user_data, ad_personalization, analytics_storage, plus functionality/personalization/security storage) in Basic or Advanced mode, with defaults sent before any Google tag.
 * WP Consent API support (used by Site Kit and others) when that plugin is installed.
 * Opt-in or opt-out model, Global Privacy Control, policy versioning (bump it to ask everyone again).
-* Keyboard and screen-reader friendly, respects reduced motion, works on mobile. English and Indonesian built in.
+* Keyboard and screen-reader friendly, respects reduced motion, works on mobile. Banner available in 125 languages (English and Indonesian built in, the rest added automatically for the site language).
 * The same browser engine is available for any website and as a Composer package (`seoultra/open-consent`).
 
 OpenConsent is a technical tool. Installing it does not by itself make a site compliant with GDPR, ePrivacy, CCPA or any other law — you decide which cookies you use, which category they belong to and which consent model applies to you.
@@ -46,6 +46,9 @@ No. When consent is withdrawn OpenConsent sends Consent Mode updates, removes th
 No. There are no remote requests, no telemetry and no account.
 
 == Changelog ==
+
+= 0.2.0 =
+* Banner and preferences dialog now ship in 125 languages; the site language is picked automatically.
 
 = 0.1.0 =
 * First release.

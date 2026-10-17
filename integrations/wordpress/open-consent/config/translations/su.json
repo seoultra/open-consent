@@ -1,0 +1,31 @@
+{
+  "banner": {
+    "title": "Kami ngahargaan privasi anjeun",
+    "text": "Kami ngagunakeun cookie jeung téknologi nu sarupa. Cookie nu perlu ngajantenkeun situs tiasa jalan. Kalayan idin anjeun, kami ogé ngagunakeun cookie pilihan pikeun fitur, analitik jeung marketing. Anjeun tiasa narima sadayana, nolak sadayana, atawa milih per kategori, sarta ngarobih pilihan iraha waé.",
+    "acceptAll": "Tampa sadayana",
+    "rejectAll": "Tolak sadayana",
+    "customize": "Atur sorangan",
+    "privacyPolicy": "Kawijakan privasi",
+    "cookiePolicy": "Kawijakan cookie"
+  },
+  "preferences": {
+    "title": "Pilihan cookie",
+    "text": "Pilih kategori pilihan mana nu anjeun idinan. Cookie nu perlu teu tiasa dipareuman sabab situs teu tiasa jalan tanpa éta.",
+    "save": "Simpen pilihan",
+    "acceptAll": "Tampa sadayana",
+    "rejectAll": "Tolak sadayana",
+    "close": "Tutup",
+    "alwaysActive": "Salawasna aktif",
+    "on": "Hurung",
+    "off": "Pareum"
+  },
+  "categories": {
+    "necessary": { "title": "Perlu", "description": "Diperlukeun pikeun fungsi dasar saperti kaamanan, pamaratan beban jeung ngingetkeun pilihan idin ieu." },
+    "functional": { "title": "Fungsional", "description": "Ngingetkeun pilihan saperti basa atawa wewengkon sarta ngaktipkeun fitur nu dipasang." },
+    "analytics": { "title": "Analitik", "description": "Mantuan kami ngarti kumaha situs dipaké sangkan bisa dironjatkeun." },
+    "marketing": { "title": "Marketing", "description": "Dipaké pikeun ngukur jeung nyaluyukeun iklan di loba situs." }
+  },
+  "reopen": "Pilihan cookie",
+  "blockedContent": "Eusi ieu diblokir nepi ka anjeun ngidinan kategori \"{category}\".",
+  "allowContent": "Idinan jeung témbongkeun"
+}

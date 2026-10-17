@@ -1,0 +1,31 @@
+{
+  "banner": {
+    "title": "Mir schätze Är Privatsphär",
+    "text": "Mir benotzen Cookien an ähnlech Technologien. Néideg Cookie halen d'Websäit um Lafen. Mat Ärer Erlaabnis benotze mir och optional Cookien fir Funktiounen, Analyse a Marketing. Dir kënnt alleguer akzeptéieren, alleguer ofleenen oder pro Kategorie wielen, an Är Meenung zu all Moment änneren.",
+    "acceptAll": "Alleguer akzeptéieren",
+    "rejectAll": "Alleguer ofleenen",
+    "customize": "Upassen",
+    "privacyPolicy": "Dateschutzrichtlinn",
+    "cookiePolicy": "Cookie-Richtlinn"
+  },
+  "preferences": {
+    "title": "Cookie-Astellungen",
+    "text": "Wielt wéi eng optional Kategorien Dir erlaabt. Néideg Cookie kënnen net ausgeschalt ginn, well d'Websäit ouni si net funktionéiert.",
+    "save": "Astellunge späicheren",
+    "acceptAll": "Alleguer akzeptéieren",
+    "rejectAll": "Alleguer ofleenen",
+    "close": "Zoumaachen",
+    "alwaysActive": "Ëmmer aktiv",
+    "on": "Un",
+    "off": "Aus"
+  },
+  "categories": {
+    "necessary": { "title": "Néideg", "description": "Gebraucht fir Basisfunktiounen wéi Sécherheet, Laaschtverdeelung an dës Zoustëmmungsentscheedung ze behalen." },
+    "functional": { "title": "Funktionell", "description": "Erënneren u Astellungen wéi Sprooch oder Regioun an aktivéieren agebonne Funktiounen." },
+    "analytics": { "title": "Analyse", "description": "Hëllefen eis ze verstoen, wéi d'Websäit benotzt gëtt, fir se ze verbesseren." },
+    "marketing": { "title": "Marketing", "description": "Gi benotzt fir Reklamm iwwer Websäiten ze moossen an ze personaliséieren." }
+  },
+  "reopen": "Cookie-Astellungen",
+  "blockedContent": "Dësen Inhalt ass gespaart, bis Dir d'Kategorie \"{category}\" erlaabt.",
+  "allowContent": "Erlaaben a weisen"
+}

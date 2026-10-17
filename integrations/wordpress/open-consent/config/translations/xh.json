@@ -1,0 +1,31 @@
+{
+  "banner": {
+    "title": "Siyawuhlonipha ubumfihlo bakho",
+    "text": "Sisebenzisa ii-cookie neetekhnoloji ezifanayo. Ii-cookie ezifunekayo zigcina iwebhusayithi isebenza. Ngemvume yakho, sisebenzisa nee-cookie zokukhetha zeempawu, uhlalutyo nentengiso. Unokwamkela zonke, ukwala zonke, okanye ukhethe ngodidi ngalunye, kwaye utshintshe uluvo lwakho nangaliphi na ixesha.",
+    "acceptAll": "Yamkela zonke",
+    "rejectAll": "Yala zonke",
+    "customize": "Yenza ngokwezifiso",
+    "privacyPolicy": "Umgaqo-nkqubo wobumfihlo",
+    "cookiePolicy": "Umgaqo-nkqubo wee-cookie"
+  },
+  "preferences": {
+    "title": "Okukhethwayo kwee-cookie",
+    "text": "Khetha ezo ndidi zokukhetha uzivumelayo. Ii-cookie ezifunekayo azinakucinywa kuba iwebhusayithi ayisebenzi ngaphandle kwazo.",
+    "save": "Gcina okukhethiweyo",
+    "acceptAll": "Yamkela zonke",
+    "rejectAll": "Yala zonke",
+    "close": "Vala",
+    "alwaysActive": "Isoloko isebenza",
+    "on": "Vuliwe",
+    "off": "Valiwe"
+  },
+  "categories": {
+    "necessary": { "title": "Ezifunekayo", "description": "Ziyafuneka kwimisebenzi esisiseko efana nokhuseleko, ukulinganisa umthwalo nokukhumbula olu khetho lwemvume." },
+    "functional": { "title": "Ezisebenzayo", "description": "Zikhumbula izinto ozikhethayo ezifana nolwimi okanye ummandla kwaye zenza ukuba iimpawu ezifakelweyo zisebenze." },
+    "analytics": { "title": "Uhlalutyo", "description": "Zisinceda siqonde indlela iwebhusayithi esetyenziswa ngayo ukuze siyiphucule." },
+    "marketing": { "title": "Intengiso", "description": "Zisetyenziselwa ukulinganisa nokwenza izibhengezo zibe ngezomntu ngamnye kumawebhusayithi ahlukeneyo." }
+  },
+  "reopen": "Okukhethwayo kwee-cookie",
+  "blockedContent": "Lo mxholo uvaliwe de uvumele udidi \"{category}\".",
+  "allowContent": "Vumela kwaye ubonise"
+}

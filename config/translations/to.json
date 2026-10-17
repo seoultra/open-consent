@@ -1,0 +1,31 @@
+{
+  "banner": {
+    "title": "ʻOku mau fakahoko ʻa e mahuʻinga ʻo hoʻo fakafuofua fakatāutaha",
+    "text": "ʻOku mau ngāue'aki ʻa e kuki mo e ngaahi tekinolosia tatau. ʻOku ngāue ʻa e uepisaiti ʻaki ʻa e kuki ʻoku fiema'u. Mo hoʻo fakaʻatā, ʻoku mau ngāue'aki foki ʻa e kuki fili ki he ngaahi ngāue, fakatotolo mo e fakatau. Te ke lava ʻo tali kotoa, ʻalu kotoa, pe fili ʻi he kulupu taki taha, pea liliu hoʻo fakakaukau ʻi ha taimi pē.",
+    "acceptAll": "Tali kotoa",
+    "rejectAll": "Tukunoa kotoa",
+    "customize": "Fakafoʻituitui",
+    "privacyPolicy": "Tuʻutuʻuni fakatāutaha",
+    "cookiePolicy": "Tuʻutuʻuni kuki"
+  },
+  "preferences": {
+    "title": "Ngaahi fili kuki",
+    "text": "Fili ʻa e ngaahi kulupu fili ʻoku ke fakaʻatā. ʻE ʻikai lava ke tāpuni ʻa e kuki ʻoku fiema'u koeʻuhí ʻoku ʻikai ngāue ʻa e uepisaiti ʻo ka ʻikai ia.",
+    "save": "Tauhi ʻa e ngaahi fili",
+    "acceptAll": "Tali kotoa",
+    "rejectAll": "Tukunoa kotoa",
+    "close": "Tāpuni",
+    "alwaysActive": "Ngāue maʻu pē",
+    "on": "Hā",
+    "off": "Tāpuni"
+  },
+  "categories": {
+    "necessary": { "title": "Fiema'u", "description": "ʻOku fiema'u ki he ngaahi ngāue tefito hangē ko e malu, vaeua ʻo e kavenga mo e manatu ki he fili ni ʻo e loto-fiemālie." },
+    "functional": { "title": "Ngāue", "description": "Manatu ki he ngaahi fili hangē ko e lea pe feituʻu pea ngāueʻi ʻa e ngaahi ngāue fakafonu." },
+    "analytics": { "title": "Fakatotolo", "description": "Tokoni ke mau mahino'i hono ngāue'aki ʻo e uepisaiti koeʻuhí ke mau lava ʻo fakaleleiʻi." },
+    "marketing": { "title": "Fakatau", "description": "Ngāue'aki ke fuofua mo fakafoʻituitui ʻa e ngaahi fanongonongo ʻi he ngaahi uepisaiti kehekehe." }
+  },
+  "reopen": "Ngaahi fili kuki",
+  "blockedContent": "Kuo tāpuni ʻa e ngaahi me'a ni kae ʻoua ke ke fakaʻatā ʻa e kulupu \"{category}\".",
+  "allowContent": "Fakaʻatā mo fakahā"
+}

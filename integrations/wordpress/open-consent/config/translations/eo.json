@@ -1,0 +1,31 @@
+{
+  "banner": {
+    "title": "Ni respektas vian privatecon",
+    "text": "Ni uzas kuketojn kaj similajn teknologiojn. Necesaj kuketoj funkciigas la retejon. Kun via permeso ni uzas ankaŭ laŭvolajn kuketojn por funkcioj, analizo kaj merkatado. Vi povas akcepti ĉiujn, rifuzi ĉiujn, aŭ elekti laŭ kategorio, kaj ŝanĝi vian decidon iam ajn.",
+    "acceptAll": "Akcepti ĉiujn",
+    "rejectAll": "Rifuzi ĉiujn",
+    "customize": "Adapti",
+    "privacyPolicy": "Privateca politiko",
+    "cookiePolicy": "Kuketa politiko"
+  },
+  "preferences": {
+    "title": "Kuketaj preferoj",
+    "text": "Elektu, kiujn laŭvolajn kategoriojn vi permesas. Necesaj kuketoj ne povas esti malŝaltitaj, ĉar la retejo ne funkcias sen ili.",
+    "save": "Konservi preferojn",
+    "acceptAll": "Akcepti ĉiujn",
+    "rejectAll": "Rifuzi ĉiujn",
+    "close": "Fermi",
+    "alwaysActive": "Ĉiam aktiva",
+    "on": "Ŝaltita",
+    "off": "Malŝaltita"
+  },
+  "categories": {
+    "necessary": { "title": "Necesaj", "description": "Postulataj por bazaj funkcioj kiel sekureco, ŝarĝodistribuo kaj memoro de ĉi tiu konsenta elekto." },
+    "functional": { "title": "Funkciaj", "description": "Memoras preferojn kiel lingvo aŭ regiono kaj ebligas enigitajn funkciojn." },
+    "analytics": { "title": "Analizaj", "description": "Helpas nin kompreni kiel la retejo estas uzata, por ke ni povu plibonigi ĝin." },
+    "marketing": { "title": "Merkataj", "description": "Uzataj por mezuri kaj personecigi reklamadon tra retejoj." }
+  },
+  "reopen": "Kuketaj preferoj",
+  "blockedContent": "Ĉi tiu enhavo estas blokita ĝis vi permesos la kategorion \"{category}\".",
+  "allowContent": "Permesi kaj montri"
+}

@@ -1,0 +1,31 @@
+{
+  "banner": {
+    "title": "Valorizamos a sua privacidade",
+    "text": "Utilizamos cookies e tecnologias semelhantes. Os cookies necessários garantem o funcionamento do site. Com a sua autorização, utilizamos também cookies opcionais para funcionalidades, estatísticas e marketing. Pode aceitar todos, rejeitar todos ou escolher por categoria, e alterar a sua decisão em qualquer altura.",
+    "acceptAll": "Aceitar todos",
+    "rejectAll": "Rejeitar todos",
+    "customize": "Personalizar",
+    "privacyPolicy": "Política de privacidade",
+    "cookiePolicy": "Política de cookies"
+  },
+  "preferences": {
+    "title": "Preferências de cookies",
+    "text": "Escolha as categorias opcionais que pretende permitir. Os cookies necessários não podem ser desativados, porque o site não funciona sem eles.",
+    "save": "Guardar preferências",
+    "acceptAll": "Aceitar todos",
+    "rejectAll": "Rejeitar todos",
+    "close": "Fechar",
+    "alwaysActive": "Sempre ativos",
+    "on": "Ligado",
+    "off": "Desligado"
+  },
+  "categories": {
+    "necessary": { "title": "Necessários", "description": "Indispensáveis para funções básicas, como a segurança, o equilíbrio de carga e a memorização desta escolha de consentimento." },
+    "functional": { "title": "Funcionais", "description": "Memorizam preferências, como o idioma ou a região, e ativam funcionalidades incorporadas." },
+    "analytics": { "title": "Estatísticos", "description": "Ajudam-nos a perceber como o site é utilizado para o podermos melhorar." },
+    "marketing": { "title": "Marketing", "description": "Utilizados para medir e personalizar a publicidade em vários sites." }
+  },
+  "reopen": "Preferências de cookies",
+  "blockedContent": "Este conteúdo está bloqueado até permitir a categoria «{category}».",
+  "allowContent": "Permitir e mostrar"
+}

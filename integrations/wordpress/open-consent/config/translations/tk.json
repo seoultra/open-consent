@@ -1,0 +1,31 @@
+{
+  "banner": {
+    "title": "Biz şahsy durmuşyňyza gadyr goýýarys",
+    "text": "Biz kukiler we şuňa meňzeş tehnologiýalary ulanýarys. Zerur kukiler sahypanyň işlemegini üpjün edýär. Siziň rugsadyňyz bilen goşmaça mümkinçilikler, derňew we marketing üçin hökmany däl kukileri hem ulanýarys. Siz hemmesini kabul edip, hemmesini ret edip ýa-da kategoriýa boýunça saýlap bilersiňiz we islendik wagt kararyňyzy üýtgedip bilersiňiz.",
+    "acceptAll": "Hemmesini kabul et",
+    "rejectAll": "Hemmesini ret et",
+    "customize": "Sazla",
+    "privacyPolicy": "Gizlinlik syýasaty",
+    "cookiePolicy": "Kuki syýasaty"
+  },
+  "preferences": {
+    "title": "Kuki sazlamalary",
+    "text": "Haýsy hökmany däl kategoriýalara rugsat berýändigiňizi saýlaň. Zerur kukileri öçürmek mümkin däl, sebäbi sahypa olarsyz işlemeýär.",
+    "save": "Sazlamalary sakla",
+    "acceptAll": "Hemmesini kabul et",
+    "rejectAll": "Hemmesini ret et",
+    "close": "Ýap",
+    "alwaysActive": "Hemişe işjeň",
+    "on": "Açyk",
+    "off": "Ýapyk"
+  },
+  "categories": {
+    "necessary": { "title": "Zerur", "description": "Howpsuzlyk, ýüklenmäni paýlaşmak we razylyk saýlawyňyzy ýatda saklamak ýaly esasy funksiýalar üçin gerek." },
+    "functional": { "title": "Funksional", "description": "Dil ýa-da sebit ýaly sazlamalary ýatda saklaýar we goşulan mümkinçilikleri işjeňleşdirýär." },
+    "analytics": { "title": "Analitika", "description": "Sahypanyň nähili ulanylýandygyny düşünmäge we ony ýagşylaşdyrmaga kömek edýär." },
+    "marketing": { "title": "Marketing", "description": "Dürli sahypalarda mahabaty ölçemek we şahsylaşdyrmak üçin ulanylýar." }
+  },
+  "reopen": "Kuki sazlamalary",
+  "blockedContent": "Bu mazmun \"{category}\" kategoriýasyna rugsat berýänçäňiz petiklenendir.",
+  "allowContent": "Rugsat ber we görkez"
+}

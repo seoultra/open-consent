@@ -1,0 +1,31 @@
+{
+  "banner": {
+    "title": "Gipasagdan namo ang imong privacy",
+    "text": "Naggamit mi og mga cookie ug susama nga teknolohiya. Ang mga kinahanglanon nga cookie nagpaandar sa site. Uban sa imong pagtugot, naggamit usab mi og mga opsyonal nga cookie para sa mga feature, analytics ug marketing. Mahimo nimong dawaton ang tanan, isalikway ang tanan, o mopili kada kategorya, ug mausab ang imong hunahuna bisan unsang orasa.",
+    "acceptAll": "Dawata ang tanan",
+    "rejectAll": "Isalikway ang tanan",
+    "customize": "I-customize",
+    "privacyPolicy": "Palisiya sa privacy",
+    "cookiePolicy": "Palisiya sa cookie"
+  },
+  "preferences": {
+    "title": "Mga gusto sa cookie",
+    "text": "Pilia kung hain nga opsyonal nga kategorya ang imong gitugotan. Ang mga kinahanglanon nga cookie dili ma-off tungod kay dili mu-obra ang site kung wala kini.",
+    "save": "I-save ang mga gusto",
+    "acceptAll": "Dawata ang tanan",
+    "rejectAll": "Isalikway ang tanan",
+    "close": "Isira",
+    "alwaysActive": "Kanunay aktibo",
+    "on": "Naka-on",
+    "off": "Naka-off"
+  },
+  "categories": {
+    "necessary": { "title": "Kinahanglanon", "description": "Gikinahanglan alang sa batakang mga function sama sa seguridad, load balancing ug pagpugong sa gipili nimong pagtugot." },
+    "functional": { "title": "Pangfunction", "description": "Nahinumdom sa mga gusto sama sa pinulongan o rehiyon ug nagpaandar sa mga naka-embed nga feature." },
+    "analytics": { "title": "Analytics", "description": "Motabang kanamo sa pagsabot kung unsaon paggamit ang site aron mapaayo namo kini." },
+    "marketing": { "title": "Marketing", "description": "Gigamit sa pagsukod ug pag-personalize sa advertising sa lain-laing mga website." }
+  },
+  "reopen": "Mga gusto sa cookie",
+  "blockedContent": "Gibabagan kini nga content hangtod imong tugotan ang kategorya nga \"{category}\".",
+  "allowContent": "Tugoti ug ipakita"
+}

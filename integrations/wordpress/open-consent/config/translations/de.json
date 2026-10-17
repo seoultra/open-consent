@@ -1,0 +1,31 @@
+{
+  "banner": {
+    "title": "Wir respektieren Ihre Privatsphäre",
+    "text": "Wir verwenden Cookies und ähnliche Technologien. Notwendige Cookies sorgen dafür, dass die Website funktioniert. Mit Ihrer Einwilligung setzen wir zusätzlich optionale Cookies für Funktionen, Analyse und Marketing ein. Sie können alle akzeptieren, alle ablehnen oder pro Kategorie auswählen und Ihre Entscheidung jederzeit ändern.",
+    "acceptAll": "Alle akzeptieren",
+    "rejectAll": "Alle ablehnen",
+    "customize": "Anpassen",
+    "privacyPolicy": "Datenschutzerklärung",
+    "cookiePolicy": "Cookie-Richtlinie"
+  },
+  "preferences": {
+    "title": "Cookie-Einstellungen",
+    "text": "Wählen Sie, welche optionalen Kategorien Sie zulassen. Notwendige Cookies können nicht deaktiviert werden, da die Website ohne sie nicht funktioniert.",
+    "save": "Einstellungen speichern",
+    "acceptAll": "Alle akzeptieren",
+    "rejectAll": "Alle ablehnen",
+    "close": "Schließen",
+    "alwaysActive": "Immer aktiv",
+    "on": "An",
+    "off": "Aus"
+  },
+  "categories": {
+    "necessary": { "title": "Notwendig", "description": "Erforderlich für grundlegende Funktionen wie Sicherheit, Lastverteilung und das Speichern Ihrer Cookie-Auswahl." },
+    "functional": { "title": "Funktional", "description": "Speichern Einstellungen wie Sprache oder Region und ermöglichen eingebettete Funktionen." },
+    "analytics": { "title": "Analyse", "description": "Helfen uns zu verstehen, wie die Website genutzt wird, damit wir sie verbessern können." },
+    "marketing": { "title": "Marketing", "description": "Werden verwendet, um Werbung websiteübergreifend zu messen und zu personalisieren." }
+  },
+  "reopen": "Cookie-Einstellungen",
+  "blockedContent": "Dieser Inhalt ist blockiert, bis Sie die Kategorie „{category}“ zulassen.",
+  "allowContent": "Zulassen und anzeigen"
+}

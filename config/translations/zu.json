@@ -1,0 +1,31 @@
+{
+  "banner": {
+    "title": "Siyakuhlonipha ubumfihlo bakho",
+    "text": "Sisebenzisa ama-cookie nobuchwepheshe obufanayo. Ama-cookie adingekayo agcina isayithi isebenza. Ngemvume yakho, sisebenzisa nama-cookie ongawakhetha ezici, ukuhlaziya nokumaketha. Ungamukela konke, wenqabe konke, noma ukhethe ngesigaba ngasinye, futhi ushintshe umqondo wakho noma nini.",
+    "acceptAll": "Yamukela konke",
+    "rejectAll": "Yenqaba konke",
+    "customize": "Enza ngokwezifiso",
+    "privacyPolicy": "Inqubomgomo yobumfihlo",
+    "cookiePolicy": "Inqubomgomo yama-cookie"
+  },
+  "preferences": {
+    "title": "Okukhethwayo kwama-cookie",
+    "text": "Khetha izigaba ezikhethwayo ozivumelayo. Ama-cookie adingekayo awakwazi ukuvalwa ngoba isayithi alisebenzi ngaphandle kwawo.",
+    "save": "Gcina okukhethiwe",
+    "acceptAll": "Yamukela konke",
+    "rejectAll": "Yenqaba konke",
+    "close": "Vala",
+    "alwaysActive": "Kuhlala kusebenza",
+    "on": "Kuvuliwe",
+    "off": "Kuvaliwe"
+  },
+  "categories": {
+    "necessary": { "title": "Adingekayo", "description": "Adingeka emisebenzini eyisisekelo efana nokuphepha, ukulinganisa umthwalo nokukhumbula lokhu okukhethiwe kwemvume." },
+    "functional": { "title": "Asebenzayo", "description": "Akhumbula okuncamelayo okufana nolimi noma isifunda futhi enza ukuthi izici ezifakiwe zisebenze." },
+    "analytics": { "title": "Ukuhlaziya", "description": "Asisiza siqonde ukuthi isayithi lisetshenziswa kanjani ukuze silithuthukise." },
+    "marketing": { "title": "Ukumaketha", "description": "Asetshenziselwa ukukala nokwenza izikhangiso zibe ngezomuntu ngamunye kuwo wonke amawebhusayithi." }
+  },
+  "reopen": "Okukhethwayo kwama-cookie",
+  "blockedContent": "Okuqukethwe kuvaliwe kuze kube yilapho uvumela isigaba esithi \"{category}\".",
+  "allowContent": "Vumela futhi ubonise"
+}

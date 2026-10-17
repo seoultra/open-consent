@@ -1,0 +1,31 @@
+{
+  "banner": {
+    "title": "Vi värnar om din integritet",
+    "text": "Vi använder kakor (cookies) och liknande tekniker. Nödvändiga kakor gör att webbplatsen fungerar. Med ditt samtycke använder vi även valfria kakor för funktioner, analys och marknadsföring. Du kan acceptera alla, avvisa alla eller välja per kategori, och ändra dig när som helst.",
+    "acceptAll": "Acceptera alla",
+    "rejectAll": "Avvisa alla",
+    "customize": "Anpassa",
+    "privacyPolicy": "Integritetspolicy",
+    "cookiePolicy": "Cookiepolicy"
+  },
+  "preferences": {
+    "title": "Kakinställningar",
+    "text": "Välj vilka valfria kategorier du tillåter. Nödvändiga kakor kan inte stängas av eftersom webbplatsen inte fungerar utan dem.",
+    "save": "Spara inställningar",
+    "acceptAll": "Acceptera alla",
+    "rejectAll": "Avvisa alla",
+    "close": "Stäng",
+    "alwaysActive": "Alltid aktiva",
+    "on": "På",
+    "off": "Av"
+  },
+  "categories": {
+    "necessary": { "title": "Nödvändiga", "description": "Krävs för grundläggande funktioner som säkerhet, lastbalansering och för att komma ihåg ditt val om samtycke." },
+    "functional": { "title": "Funktionella", "description": "Kommer ihåg inställningar som språk eller region och möjliggör inbäddade funktioner." },
+    "analytics": { "title": "Analys", "description": "Hjälper oss att förstå hur webbplatsen används så att vi kan förbättra den." },
+    "marketing": { "title": "Marknadsföring", "description": "Används för att mäta och anpassa annonser på olika webbplatser." }
+  },
+  "reopen": "Kakinställningar",
+  "blockedContent": "Det här innehållet är blockerat tills du tillåter kategorin ”{category}”.",
+  "allowContent": "Tillåt och visa"
+}

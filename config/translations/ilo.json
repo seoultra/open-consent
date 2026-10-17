@@ -1,0 +1,31 @@
+{
+  "banner": {
+    "title": "Pategmi ti privacy-yo",
+    "text": "Mausarkami kadagiti cookie ken umasping a teknolohia. Ti kasapulan a cookie ti mangpaandar iti site. Babaen ti pammalubosyo, mausarkami met kadagiti opsional a cookie para kadagiti feature, analytics ken marketing. Mabalinyo nga awaten amin, laksiden amin, wenno mangpili kada kategoria, ken agbaliw ti panunotyo iti kasanoman.",
+    "acceptAll": "Awaten amin",
+    "rejectAll": "Laksiden amin",
+    "customize": "I-customize",
+    "privacyPolicy": "Palisiya ti privacy",
+    "cookiePolicy": "Palisiya ti cookie"
+  },
+  "preferences": {
+    "title": "Pagwadan ti cookie",
+    "text": "Mangpilika no ania nga opsional a kategoria ti palubosanyo. Dagiti kasapulan a cookie ket saan a mabalin nga i-off agsipud ta saan nga agandar ti site no awan dagitoy.",
+    "save": "I-save dagiti pagwadan",
+    "acceptAll": "Awaten amin",
+    "rejectAll": "Laksiden amin",
+    "close": "Irikep",
+    "alwaysActive": "Kanayon nga aktibo",
+    "on": "Naka-on",
+    "off": "Naka-off"
+  },
+  "categories": {
+    "necessary": { "title": "Kasapulan", "description": "Masapul para kadagiti baro-baro a function a kas iti seguridad, load balancing ken panangurnong iti pinilim a pammalubos." },
+    "functional": { "title": "Pagayat", "description": "Ngilala kadagiti pagwadan a kas iti pagsasao wenno rehion ken mangpaandar kadagiti naka-embed a feature." },
+    "analytics": { "title": "Analytics", "description": "Tumulong kadakami a mangtaktakder no kasano ti panagusar iti site tapno mapasayaatmi dayta." },
+    "marketing": { "title": "Marketing", "description": "Maus-usar a mangrukod ken mangpersonalize iti advertising iti nadumaduma a website." }
+  },
+  "reopen": "Pagwadan ti cookie",
+  "blockedContent": "Naiharang daytoy a content agingga a palubosanyo ti kategoria a \"{category}\".",
+  "allowContent": "Palubosan ken ipakita"
+}

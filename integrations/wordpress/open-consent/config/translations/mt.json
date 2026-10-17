@@ -1,0 +1,31 @@
+{
+  "banner": {
+    "title": "Napprezzaw il-privatezza tiegħek",
+    "text": "Nużaw cookies u teknoloġiji simili. Il-cookies meħtieġa jżommu s-sit jaħdem. Bil-permess tiegħek nużaw ukoll cookies fakultattivi għal funzjonijiet, analitika u marketing. Tista’ taċċetta kollha, tirrifjuta kollha jew tagħżel skont il-kategorija, u tbiddel fehmtek fi kwalunkwe ħin.",
+    "acceptAll": "Aċċetta kollha",
+    "rejectAll": "Irrifjuta kollha",
+    "customize": "Personalizza",
+    "privacyPolicy": "Politika tal-privatezza",
+    "cookiePolicy": "Politika tal-cookies"
+  },
+  "preferences": {
+    "title": "Preferenzi tal-cookies",
+    "text": "Agħżel liema kategoriji fakultattivi tippermetti. Il-cookies meħtieġa ma jistgħux jintefew minħabba li s-sit ma jaħdimx mingħajrhom.",
+    "save": "Issejvja l-preferenzi",
+    "acceptAll": "Aċċetta kollha",
+    "rejectAll": "Irrifjuta kollha",
+    "close": "Agħlaq",
+    "alwaysActive": "Dejjem attivi",
+    "on": "Mixgħul",
+    "off": "Mitfi"
+  },
+  "categories": {
+    "necessary": { "title": "Meħtieġa", "description": "Meħtieġa għal funzjonijiet bażiċi bħas-sigurtà, il-bilanċ tat-tagħbija u t-tiftakir ta’ din l-għażla tal-kunsens." },
+    "functional": { "title": "Funzjonali", "description": "Jiftakru preferenzi bħal-lingwa jew ir-reġjun u jippermettu funzjonijiet integrati." },
+    "analytics": { "title": "Analitika", "description": "Jgħinuna nifhmu kif jintuża s-sit biex inkunu nistgħu intejbuh." },
+    "marketing": { "title": "Marketing", "description": "Jintużaw biex titkejjel u titpersonalizza r-reklamar fuq siti differenti." }
+  },
+  "reopen": "Preferenzi tal-cookies",
+  "blockedContent": "Dan il-kontenut huwa mblukkat sakemm tippermetti l-kategorija “{category}”.",
+  "allowContent": "Ippermetti u uri"
+}

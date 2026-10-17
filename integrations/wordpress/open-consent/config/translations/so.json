@@ -1,0 +1,31 @@
+{
+  "banner": {
+    "title": "Waxaan ixtiraamnaa asturnaantaada",
+    "text": "Waxaan isticmaalnaa cookies iyo tignoolajiyo la mid ah. Cookies-ka lagama maarmaanka ah ayaa ka dhigaya goobtu inay shaqayso. Haddii aad oggolaato, waxaan sidoo kale isticmaalnaa cookies ikhtiyaari ah oo loogu talagalay sifooyin, falanqayn iyo suuq-geyn. Waxaad aqbali kartaa dhammaan, diidi kartaa dhammaan, ama dooran kartaa qayb kasta, wakhti kasta ayaadna beddeli kartaa go'aankaaga.",
+    "acceptAll": "Aqbal dhammaan",
+    "rejectAll": "Diid dhammaan",
+    "customize": "Habee",
+    "privacyPolicy": "Siyaasadda asturnaanta",
+    "cookiePolicy": "Siyaasadda cookies"
+  },
+  "preferences": {
+    "title": "Dookhyada cookies",
+    "text": "Dooro qaybaha ikhtiyaarka ah ee aad oggolaanayso. Cookies-ka lagama maarmaanka ah lama damin karo sababtoo ah goobtu ma shaqayso iyagoo la'aan.",
+    "save": "Kaydi dookhyada",
+    "acceptAll": "Aqbal dhammaan",
+    "rejectAll": "Diid dhammaan",
+    "close": "Xidh",
+    "alwaysActive": "Mar walba shaqaynaya",
+    "on": "Shidan",
+    "off": "Damsan"
+  },
+  "categories": {
+    "necessary": { "title": "Lagama maarmaan", "description": "Looga baahan yahay shaqooyinka aasaasiga ah sida amniga, qaybinta culayska iyo xusuusta doorashadan oggolaanshaha." },
+    "functional": { "title": "Shaqeyn", "description": "Waxay xusuustaa dookhyada sida luqadda ama gobolka, waxayna awood u siisaa sifooyinka la geliyay." },
+    "analytics": { "title": "Falanqayn", "description": "Naga caawiya inaan fahanno sida goobta loo isticmaalo si aan u horumarino." },
+    "marketing": { "title": "Suuq-geyn", "description": "Waxaa loo isticmaalaa cabbirka iyo shakhsiyeynta xayeysiisyada goobaha kala duwan." }
+  },
+  "reopen": "Dookhyada cookies",
+  "blockedContent": "Nuxurkan waa la xannibay ilaa aad oggolaato qaybta \"{category}\".",
+  "allowContent": "Oggol oo muuji"
+}

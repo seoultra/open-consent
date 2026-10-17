@@ -1,0 +1,31 @@
+{
+  "banner": {
+    "title": "Tinokoshesa zvakavanzika zvako",
+    "text": "Tinoshandisa macookie netekinoroji dzakafanana. Macookie anodiwa anoita kuti webhusaiti ishande. Neruvumbi rwako, tinoshandisawo macookie ekusarudza emabasa, kuongorora nekushambadza. Unogona kugamuchira ose, kuramba ose, kana kusarudza nechikamu, uye kuchinja pfungwa dzako chero nguva.",
+    "acceptAll": "Gamuchira ose",
+    "rejectAll": "Ramba ose",
+    "customize": "Gadzirisa",
+    "privacyPolicy": "Mutemo wezvakavanzika",
+    "cookiePolicy": "Mutemo wemacookie"
+  },
+  "preferences": {
+    "title": "Zvaunosarudza pamacookie",
+    "text": "Sarudza zvikamu zvekusarudza zvaunobvuma. Macookie anodiwa haagone kudzimwa nokuti webhusaiti haishande pasina.",
+    "save": "Chengeta zvasarudzwa",
+    "acceptAll": "Gamuchira ose",
+    "rejectAll": "Ramba ose",
+    "close": "Vhara",
+    "alwaysActive": "Anogara achishanda",
+    "on": "Yakavhurwa",
+    "off": "Yakadzimwa"
+  },
+  "categories": {
+    "necessary": { "title": "Anodiwa", "description": "Anodiwa pamabasa ekutanga akaita sekuchengetedza, kugovera mutoro nekuyeuka sarudzo iyi yemvumo." },
+    "functional": { "title": "Anoshanda", "description": "Anoyeuka zvaunofarira zvakaita sorurimi kana nharaunda uye anobvumira mabasa akasungirirwa." },
+    "analytics": { "title": "Kuongorora", "description": "Anotibatsira kunzwisisa kuti webhusaiti inoshandiswa sei kuti tiivandudze." },
+    "marketing": { "title": "Kushambadza", "description": "Anoshandiswa kuyera nekushandura zvishambadziro pawebhusaiti dzakasiyana." }
+  },
+  "reopen": "Zvaunosarudza pamacookie",
+  "blockedContent": "Zvirimo izvi zvakavharirwa kusvikira wabvuma chikamu \"{category}\".",
+  "allowContent": "Bvumira uye uratidze"
+}

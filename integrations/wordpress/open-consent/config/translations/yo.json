@@ -1,0 +1,31 @@
+{
+  "banner": {
+    "title": "A bọ̀wọ̀ fún àṣírí rẹ",
+    "text": "A ń lo kúkì àti àwọn ẹ̀rọ ìmọ̀ ẹ̀rọ tó jọ ọ́. Àwọn kúkì tó pọndandan ló ń jẹ́ kí ojú òpó wẹ́ẹ̀bù ṣiṣẹ́. Pẹ̀lú ìyọ̀nda rẹ, a tún ń lo àwọn kúkì àṣàyàn fún àwọn ẹ̀yà ara ẹ̀rọ, ìtúpalẹ̀ àti ìpolówó. O lè gbà gbogbo rẹ̀, kọ gbogbo rẹ̀, tàbí yan fún ẹ̀ka kọ̀ọ̀kan, kí o sì yí ọkàn padà nígbàkúgbà.",
+    "acceptAll": "Gba gbogbo rẹ̀",
+    "rejectAll": "Kọ gbogbo rẹ̀",
+    "customize": "Ṣe àtúnṣe",
+    "privacyPolicy": "Ìlànà àṣírí",
+    "cookiePolicy": "Ìlànà kúkì"
+  },
+  "preferences": {
+    "title": "Àyànfẹ́ kúkì",
+    "text": "Yan àwọn ẹ̀ka àṣàyàn tí o fàyè gbà. A kò lè pa àwọn kúkì tó pọndandan nítorí ojú òpó wẹ́ẹ̀bù kò ṣiṣẹ́ láìsí wọn.",
+    "save": "Fi àyànfẹ́ pamọ́",
+    "acceptAll": "Gba gbogbo rẹ̀",
+    "rejectAll": "Kọ gbogbo rẹ̀",
+    "close": "Ti",
+    "alwaysActive": "Máa ń ṣiṣẹ́ nígbà gbogbo",
+    "on": "Tàn",
+    "off": "Pa"
+  },
+  "categories": {
+    "necessary": { "title": "Pọndandan", "description": "A nílò rẹ̀ fún àwọn iṣẹ́ ìpìlẹ̀ bí ààbò, pínpín ẹrù àti rírántí yíyàn ìyọ̀nda yìí." },
+    "functional": { "title": "Iṣẹ́-ṣíṣe", "description": "Ń rántí àwọn àyànfẹ́ bí èdè tàbí agbègbè, ó sì ń jẹ́ kí àwọn ẹ̀yà tí a fi sínú ojú ewé ṣiṣẹ́." },
+    "analytics": { "title": "Ìtúpalẹ̀", "description": "Ń ràn wá lọ́wọ́ láti mọ bí a ṣe ń lo ojú òpó wẹ́ẹ̀bù kí a lè mú un dára sí i." },
+    "marketing": { "title": "Ìpolówó", "description": "A ń lò ó láti díwọ̀n àti láti ṣe àdáni ìpolówó káàkiri àwọn ojú òpó wẹ́ẹ̀bù." }
+  },
+  "reopen": "Àyànfẹ́ kúkì",
+  "blockedContent": "A ti dí àkóónú yìí títí o fi máa fàyè gba ẹ̀ka \"{category}\".",
+  "allowContent": "Fàyè gbà, kí o sì fi hàn"
+}

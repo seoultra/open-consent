@@ -1,0 +1,31 @@
+{
+  "banner": {
+    "title": "Vlerësojmë privatësinë tuaj",
+    "text": "Ne përdorim cookie dhe teknologji të ngjashme. Cookie-t e nevojshme mbajnë faqen në funksion. Me lejen tuaj përdorim edhe cookie opsionale për veçori, analitikë dhe marketing. Mund t’i pranoni të gjitha, t’i refuzoni të gjitha ose të zgjidhni sipas kategorive, dhe ta ndryshoni vendimin në çdo kohë.",
+    "acceptAll": "Prano të gjitha",
+    "rejectAll": "Refuzo të gjitha",
+    "customize": "Personalizo",
+    "privacyPolicy": "Politika e privatësisë",
+    "cookiePolicy": "Politika e cookie-ve"
+  },
+  "preferences": {
+    "title": "Preferencat e cookie-ve",
+    "text": "Zgjidhni cilat kategori opsionale lejoni. Cookie-t e nevojshme nuk mund të çaktivizohen sepse faqja nuk funksionon pa to.",
+    "save": "Ruaj preferencat",
+    "acceptAll": "Prano të gjitha",
+    "rejectAll": "Refuzo të gjitha",
+    "close": "Mbyll",
+    "alwaysActive": "Gjithmonë aktive",
+    "on": "Aktiv",
+    "off": "Joaktiv"
+  },
+  "categories": {
+    "necessary": { "title": "Të nevojshme", "description": "Të domosdoshme për funksione bazë si siguria, shpërndarja e ngarkesës dhe mbajtja mend e kësaj zgjedhjeje pëlqimi." },
+    "functional": { "title": "Funksionale", "description": "Mbajnë mend preferenca si gjuha ose rajoni dhe aktivizojnë veçoritë e integruara." },
+    "analytics": { "title": "Analitike", "description": "Na ndihmojnë të kuptojmë se si përdoret faqja për ta përmirësuar atë." },
+    "marketing": { "title": "Marketingu", "description": "Përdoren për matjen dhe personalizimin e reklamave nëpër faqe të ndryshme." }
+  },
+  "reopen": "Preferencat e cookie-ve",
+  "blockedContent": "Kjo përmbajtje është e bllokuar derisa të lejoni kategorinë “{category}”.",
+  "allowContent": "Lejo dhe shfaq"
+}

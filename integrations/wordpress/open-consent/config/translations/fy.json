@@ -1,0 +1,31 @@
+{
+  "banner": {
+    "title": "Wy wurdearje jo privacy",
+    "text": "Wy brûke cookies en ferlykbere technologyen. Needsaaklike cookies hâlde de side wurkjend. Mei jo tastimming brûke wy ek opsjonele cookies foar funksjes, analyse en marketing. Jo kinne alles akseptearje, alles wegerje of per kategory kieze, en jo miening op elk momint feroarje.",
+    "acceptAll": "Alles akseptearje",
+    "rejectAll": "Alles wegerje",
+    "customize": "Oanpasse",
+    "privacyPolicy": "Privacybelied",
+    "cookiePolicy": "Cookiebelied"
+  },
+  "preferences": {
+    "title": "Cookie-ynstellingen",
+    "text": "Kies hokker opsjonele kategoryen jo tastean. Needsaaklike cookies kinne net útset wurde, om't de side sûnder harren net wurket.",
+    "save": "Ynstellingen bewarje",
+    "acceptAll": "Alles akseptearje",
+    "rejectAll": "Alles wegerje",
+    "close": "Slute",
+    "alwaysActive": "Altyd aktyf",
+    "on": "Oan",
+    "off": "Út"
+  },
+  "categories": {
+    "necessary": { "title": "Needsaaklik", "description": "Fereaske foar basisfunksjes lykas feiligens, lastferdieling en it ûnthâlden fan dizze tastimmingskeuze." },
+    "functional": { "title": "Funksjoneel", "description": "Ûnthâlde ynstellingen lykas taal of regio en meitsje ynbêde funksjes mooglik." },
+    "analytics": { "title": "Analyse", "description": "Helpe ús te begripen hoe't de side brûkt wurdt, sadat wy him ferbetterje kinne." },
+    "marketing": { "title": "Marketing", "description": "Brûkt om reklame op ferskate websites te mjitten en te personalisearjen." }
+  },
+  "reopen": "Cookie-ynstellingen",
+  "blockedContent": "Dizze ynhâld is blokkearre oant jo de kategory \"{category}\" tastean.",
+  "allowContent": "Tastean en toane"
+}

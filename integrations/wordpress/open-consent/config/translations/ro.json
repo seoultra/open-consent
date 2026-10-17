@@ -1,0 +1,31 @@
+{
+  "banner": {
+    "title": "Ne pasă de confidențialitatea dvs.",
+    "text": "Folosim cookie-uri și tehnologii similare. Cookie-urile necesare asigură funcționarea site-ului. Cu acordul dvs., folosim și cookie-uri opționale pentru funcționalități, analiză și marketing. Puteți accepta toate cookie-urile, le puteți respinge pe toate sau puteți alege pe categorii și vă puteți schimba decizia oricând.",
+    "acceptAll": "Acceptă toate",
+    "rejectAll": "Respinge toate",
+    "customize": "Personalizează",
+    "privacyPolicy": "Politica de confidențialitate",
+    "cookiePolicy": "Politica privind cookie-urile"
+  },
+  "preferences": {
+    "title": "Preferințe cookie",
+    "text": "Alegeți ce categorii opționale permiteți. Cookie-urile necesare nu pot fi dezactivate, deoarece site-ul nu funcționează fără ele.",
+    "save": "Salvează preferințele",
+    "acceptAll": "Acceptă toate",
+    "rejectAll": "Respinge toate",
+    "close": "Închide",
+    "alwaysActive": "Mereu active",
+    "on": "Activat",
+    "off": "Dezactivat"
+  },
+  "categories": {
+    "necessary": { "title": "Necesare", "description": "Necesare pentru funcții de bază, precum securitatea, distribuirea încărcării și reținerea alegerii dvs. privind consimțământul." },
+    "functional": { "title": "Funcționale", "description": "Rețin preferințe precum limba sau regiunea și activează funcții integrate." },
+    "analytics": { "title": "Analitice", "description": "Ne ajută să înțelegem cum este folosit site-ul, pentru a-l putea îmbunătăți." },
+    "marketing": { "title": "Marketing", "description": "Folosite pentru a măsura și a personaliza publicitatea pe mai multe site-uri." }
+  },
+  "reopen": "Preferințe cookie",
+  "blockedContent": "Acest conținut este blocat până când permiteți categoria „{category}”.",
+  "allowContent": "Permite și afișează"
+}

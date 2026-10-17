@@ -23,7 +23,7 @@ no remote calls, no telemetry. GPL-2.0-or-later.
 | Google Consent Mode v2: defaults before tags, updates, Basic/Advanced, tag loading, conflict detection, GTM event | ✅ |
 | Accessibility: dialog semantics, focus management + trap, keyboard, reduced motion, forced colours, RTL, 44 px targets | ✅ tested in Chromium; no screen-reader audit yet |
 | Strict CSP (nonce, no `unsafe-inline`) | ✅ tested |
-| English + Indonesian | ✅ |
+| 125 widget languages (en + id built in; others via `texts`, auto-injected by WordPress/PHP) | ✅ machine-assisted, review welcome |
 | WordPress plugin (settings, handle gating, snippets, shortcode, WP Consent API, Site Kit notes) | ✅ tested on WP 7.1.3 |
 | PHP library (config validation, cookie reader, markup helpers) | ✅ PHPUnit + PHPStan level 8 |
 | Hosted embed + config API | ✅ tested locally; you host it yourself |

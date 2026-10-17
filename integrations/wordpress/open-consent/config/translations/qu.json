@@ -1,0 +1,31 @@
+{
+  "banner": {
+    "title": "Pachallan privacidadniykita chaniyuqmanta qhawaripuyku",
+    "text": "Cookiekunata hinallataq kaqlla tecnologiakunata llamkachiyku. Necesario cookiekunaqa web sitiota llamkachin. Ruwaykita saqiqtiyki, opcional cookiekunatapas llamkachiyku funcionkunapaq, analiticapaq hinallataq marketingpaq. Llapanta chaskiyta, llapanta mana chaskiyta, utaq sapa categoriata akllayta atinki, hinallataq munaspaykipas yuyayniykita tikrayta atinki.",
+    "acceptAll": "Llapanta chaskiy",
+    "rejectAll": "Llapanta mana chaskiy",
+    "customize": "Kikinchay",
+    "privacyPolicy": "Privacidad kamachiy",
+    "cookiePolicy": "Cookie kamachiy"
+  },
+  "preferences": {
+    "title": "Cookie akllaykuna",
+    "text": "Akllay ima opcional categoriakunatan saqinki. Necesario cookiekunataqa mana wañuchiyta atikunchu, mana paykunaqa web sitio mana llamkanchu.",
+    "save": "Akllaykunata waqaychay",
+    "acceptAll": "Llapanta chaskiy",
+    "rejectAll": "Llapanta mana chaskiy",
+    "close": "Wichqay",
+    "alwaysActive": "Hayk'aqpas llamkachkan",
+    "on": "Rupachkan",
+    "off": "Wañusqa"
+  },
+  "categories": {
+    "necessary": { "title": "Necesario", "description": "Ñawpaq llamkaykunapaq necesario, seguridad hina, llank'ay rakiy hinallataq kay ruway akllayta yuyarinapaq." },
+    "functional": { "title": "Funcional", "description": "Akllaykunata yuyarin, simi utaq suyu hina, hinallataq churasqa funcionkunata llamkachin." },
+    "analytics": { "title": "Analitica", "description": "Yanapawanchik web sitio imayna llamk'achisqa kasqanta hamut'ananchikpaq, allinchananchikpaq." },
+    "marketing": { "title": "Marketing", "description": "Achka web sitiokunapi willaykunata tupuypaq hinallataq kikinchanapaq llamk'achisqa." }
+  },
+  "reopen": "Cookie akllaykuna",
+  "blockedContent": "Kay contenidoqa harkasqan \"{category}\" categoriata saqinaykikama.",
+  "allowContent": "Saqiy hinaspa rikuchiy"
+}

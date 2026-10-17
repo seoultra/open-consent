@@ -1,0 +1,31 @@
+{
+  "banner": {
+    "title": "Tha spèis againn do do phrìobhaideachd",
+    "text": "Bidh sinn a’ cleachdadh briosgaidean agus teicneòlasan coltach riutha. Cumaidh briosgaidean riatanach an làrach ag obair. Le do chead-sa, bidh sinn cuideachd a’ cleachdadh briosgaidean roghainneil airson feartan, mion-sgrùdadh is margaidheachd. Faodaidh tu gabhail riutha uile, an diùltadh uile, no taghadh a-rèir roinn-seòrsa, agus d’ inntinn atharrachadh uair sam bith.",
+    "acceptAll": "Gabh ris na h-uile",
+    "rejectAll": "Diùlt na h-uile",
+    "customize": "Gnàthaich",
+    "privacyPolicy": "Poileasaidh prìobhaideachd",
+    "cookiePolicy": "Poileasaidh bhriosgaidean"
+  },
+  "preferences": {
+    "title": "Roghainnean briosgaidean",
+    "text": "Tagh dè na roinnean roghainneil a cheadaicheas tu. Chan urrainn briosgaidean riatanach a chur dheth oir chan obraich an làrach as an aonais.",
+    "save": "Sàbhail na roghainnean",
+    "acceptAll": "Gabh ris na h-uile",
+    "rejectAll": "Diùlt na h-uile",
+    "close": "Dùin",
+    "alwaysActive": "Gnìomhach an-còmhnaidh",
+    "on": "Air",
+    "off": "Dheth"
+  },
+  "categories": {
+    "necessary": { "title": "Riatanach", "description": "Riatanach airson prìomh ghnìomhan leithid tèarainteachd, cothromachadh luchd agus cuimhneachadh air an roghainn cead seo." },
+    "functional": { "title": "Gnìomhach", "description": "Cuimhnichidh iad roghainnean leithid cànan no sgìre agus cuiridh iad feartan leabaichte an comas." },
+    "analytics": { "title": "Mion-sgrùdadh", "description": "Gar cuideachadh gus tuigsinn mar a thathas a’ cleachdadh na làraich gus an urrainn dhuinn a leasachadh." },
+    "marketing": { "title": "Margaidheachd", "description": "Air a chleachdadh airson sanasachd a thomhas agus a phearsanachadh thar làraichean-lìn." }
+  },
+  "reopen": "Roghainnean briosgaidean",
+  "blockedContent": "Tha an t-susbaint seo air a bacadh gus an ceadaich thu an roinn \"{category}\".",
+  "allowContent": "Ceadaich is seall"
+}

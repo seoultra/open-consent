@@ -1,0 +1,10 @@
+<!doctype html><html><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>lang</title>
+<script>
+  var code = new URLSearchParams(location.search).get('l');
+  document.documentElement.lang = code;
+  if (new URLSearchParams(location.search).get('rtl')) document.documentElement.dir = 'rtl';
+  var x = new XMLHttpRequest(); x.open('GET', '../../config/translations/' + code + '.json', false); x.send();
+  window.OpenConsentConfig = { cookie: { name: 'oc_lang' }, texts: {} };
+  window.OpenConsentConfig.texts[code] = JSON.parse(x.responseText);
+</script>
+<script src="../../dist/open-consent.js"></script></head><body><h1>Lang</h1></body></html>

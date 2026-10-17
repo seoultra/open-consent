@@ -1,0 +1,31 @@
+{
+  "banner": {
+    "title": "Gizliliğinize önem veriyoruz",
+    "text": "Çerezleri ve benzer teknolojileri kullanıyoruz. Gerekli çerezler sitenin çalışmasını sağlar. İzninizle özellikler, analiz ve pazarlama için isteğe bağlı çerezler de kullanırız. Tümünü kabul edebilir, tümünü reddedebilir veya kategori bazında seçim yapabilir, fikrinizi istediğiniz zaman değiştirebilirsiniz.",
+    "acceptAll": "Tümünü kabul et",
+    "rejectAll": "Tümünü reddet",
+    "customize": "Özelleştir",
+    "privacyPolicy": "Gizlilik politikası",
+    "cookiePolicy": "Çerez politikası"
+  },
+  "preferences": {
+    "title": "Çerez tercihleri",
+    "text": "İzin verdiğiniz isteğe bağlı kategorileri seçin. Gerekli çerezler olmadan site çalışmadığı için bunlar kapatılamaz.",
+    "save": "Tercihleri kaydet",
+    "acceptAll": "Tümünü kabul et",
+    "rejectAll": "Tümünü reddet",
+    "close": "Kapat",
+    "alwaysActive": "Her zaman etkin",
+    "on": "Açık",
+    "off": "Kapalı"
+  },
+  "categories": {
+    "necessary": { "title": "Gerekli", "description": "Güvenlik, yük dengeleme ve bu onay tercihinin hatırlanması gibi temel işlevler için gereklidir." },
+    "functional": { "title": "İşlevsel", "description": "Dil veya bölge gibi tercihleri hatırlar ve gömülü özellikleri etkinleştirir." },
+    "analytics": { "title": "Analitik", "description": "Siteyi geliştirebilmemiz için nasıl kullanıldığını anlamamıza yardımcı olur." },
+    "marketing": { "title": "Pazarlama", "description": "Web siteleri genelinde reklamları ölçmek ve kişiselleştirmek için kullanılır." }
+  },
+  "reopen": "Çerez tercihleri",
+  "blockedContent": "“{category}” kategorisine izin verene kadar bu içerik engellenir.",
+  "allowContent": "İzin ver ve göster"
+}

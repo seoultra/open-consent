@@ -1,0 +1,31 @@
+{
+  "banner": {
+    "title": "Privatam tuam aestimamus",
+    "text": "Crustulis et technologiis similibus utimur. Crustula necessaria situm operantem servant. Cum tua venia etiam crustulis optionalibus utimur ad functiones, analysin et mercaturam. Omnia accipere, omnia recusare, vel per categoriam eligere potes, et sententiam tuam quovis tempore mutare.",
+    "acceptAll": "Omnia accipe",
+    "rejectAll": "Omnia recusa",
+    "customize": "Accommoda",
+    "privacyPolicy": "Consilium de privatis",
+    "cookiePolicy": "Consilium de crustulis"
+  },
+  "preferences": {
+    "title": "Optiones crustulorum",
+    "text": "Elige quas categorias optionales permittas. Crustula necessaria exstingui non possunt, quia situs sine eis non operatur.",
+    "save": "Optiones serva",
+    "acceptAll": "Omnia accipe",
+    "rejectAll": "Omnia recusa",
+    "close": "Claude",
+    "alwaysActive": "Semper activa",
+    "on": "Accensum",
+    "off": "Exstinctum"
+  },
+  "categories": {
+    "necessary": { "title": "Necessaria", "description": "Requiruntur ad functiones fundamentales, ut securitatem, onerum distributionem et huius consensus electionem memoriae mandandam." },
+    "functional": { "title": "Functionalia", "description": "Optiones ut linguam vel regionem meminerunt et functiones insertas permittunt." },
+    "analytics": { "title": "Analytica", "description": "Nos adiuvant ut intellegamus quomodo situs adhibeatur, ut eum meliorem faciamus." },
+    "marketing": { "title": "Mercatoria", "description": "Adhibentur ad publicitatem per varios situs metiendam et personalem faciendam." }
+  },
+  "reopen": "Optiones crustulorum",
+  "blockedContent": "Hoc contentum impeditur donec categoriam \"{category}\" permiseris.",
+  "allowContent": "Permitte et ostende"
+}

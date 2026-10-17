@@ -1,0 +1,31 @@
+{
+  "banner": {
+    "title": "Tunathamini faragha yako",
+    "text": "Tunatumia vidakuzi (cookies) na teknolojia zinazofanana. Vidakuzi vya lazima huweka tovuti ikifanya kazi. Kwa idhini yako, pia tunatumia vidakuzi vya hiari kwa vipengele, uchanganuzi na uuzaji. Unaweza kukubali vyote, kukataa vyote, au kuchagua kwa kila kundi, na kubadilisha uamuzi wako wakati wowote.",
+    "acceptAll": "Kubali zote",
+    "rejectAll": "Kataa zote",
+    "customize": "Badilisha mapendeleo",
+    "privacyPolicy": "Sera ya faragha",
+    "cookiePolicy": "Sera ya vidakuzi"
+  },
+  "preferences": {
+    "title": "Mapendeleo ya vidakuzi",
+    "text": "Chagua ni makundi gani ya hiari unayoruhusu. Vidakuzi vya lazima haviwezi kuzimwa kwa sababu tovuti haifanyi kazi bila hivyo.",
+    "save": "Hifadhi mapendeleo",
+    "acceptAll": "Kubali zote",
+    "rejectAll": "Kataa zote",
+    "close": "Funga",
+    "alwaysActive": "Daima vinatumika",
+    "on": "Imewashwa",
+    "off": "Imezimwa"
+  },
+  "categories": {
+    "necessary": { "title": "Vya lazima", "description": "Vinahitajika kwa kazi za msingi kama usalama, ugawaji wa mzigo na kukumbuka chaguo hili la idhini." },
+    "functional": { "title": "Vya kiutendaji", "description": "Hukumbuka mapendeleo kama lugha au eneo na kuwezesha vipengele vilivyopachikwa." },
+    "analytics": { "title": "Uchanganuzi", "description": "Hutusaidia kuelewa jinsi tovuti inavyotumika ili tuiboreshe." },
+    "marketing": { "title": "Uuzaji", "description": "Hutumika kupima na kubinafsisha matangazo kwenye tovuti mbalimbali." }
+  },
+  "reopen": "Mapendeleo ya vidakuzi",
+  "blockedContent": "Maudhui haya yamezuiwa hadi uruhusu kundi la \"{category}\".",
+  "allowContent": "Ruhusu na uonyeshe"
+}

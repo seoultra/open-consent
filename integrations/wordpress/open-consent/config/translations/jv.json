@@ -1,0 +1,31 @@
+{
+  "banner": {
+    "title": "Kula ngajeni privasi panjenengan",
+    "text": "Kula migunakake cookie lan teknologi sing meh padha. Cookie sing perlu iku nggawe situs bisa mlaku. Kanthi idin panjenengan, kula uga migunakake cookie pilihan kanggo fitur, analitik lan marketing. Panjenengan bisa nampa kabeh, nolak kabeh, utawa milih saben kategori, lan ngowahi pilihan kapan wae.",
+    "acceptAll": "Tampa kabeh",
+    "rejectAll": "Tolak kabeh",
+    "customize": "Atur dhewe",
+    "privacyPolicy": "Kabijakan privasi",
+    "cookiePolicy": "Kabijakan cookie"
+  },
+  "preferences": {
+    "title": "Pilihan cookie",
+    "text": "Pilihen kategori pilihan endi sing panjenengan olehake. Cookie sing perlu ora bisa dipateni amarga situs ora bisa mlaku tanpa iku.",
+    "save": "Simpen pilihan",
+    "acceptAll": "Tampa kabeh",
+    "rejectAll": "Tolak kabeh",
+    "close": "Tutup",
+    "alwaysActive": "Tansah aktif",
+    "on": "Urip",
+    "off": "Mati"
+  },
+  "categories": {
+    "necessary": { "title": "Perlu", "description": "Dibutuhake kanggo fungsi dhasar kayata keamanan, pambagi beban lan ngelingi pilihan idin iki." },
+    "functional": { "title": "Fungsional", "description": "Ngelingi pilihan kayata basa utawa wilayah lan ngaktifake fitur sing ditempelake." },
+    "analytics": { "title": "Analitik", "description": "Mbiyantu kula mangerteni carane situs iki digunakake supaya bisa dandani." },
+    "marketing": { "title": "Marketing", "description": "Dienggo ngukur lan nyesuekake iklan ing akeh situs." }
+  },
+  "reopen": "Pilihan cookie",
+  "blockedContent": "Isi iki diblokir nganti panjenengan ngolehake kategori \"{category}\".",
+  "allowContent": "Olehake lan tampilake"
+}

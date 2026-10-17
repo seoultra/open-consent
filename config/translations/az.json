@@ -1,0 +1,31 @@
+{
+  "banner": {
+    "title": "Məxfiliyinizə dəyər veririk",
+    "text": "Biz kukilərdən və oxşar texnologiyalardan istifadə edirik. Zəruri kukilər saytın işləməsini təmin edir. İcazənizlə funksiyalar, analitika və marketinq üçün könüllü kukilərdən də istifadə edirik. Hamısını qəbul edə, hamısını rədd edə və ya kateqoriyalar üzrə seçə bilərsiniz, qərarınızı istənilən vaxt dəyişə bilərsiniz.",
+    "acceptAll": "Hamısını qəbul et",
+    "rejectAll": "Hamısını rədd et",
+    "customize": "Fərdiləşdir",
+    "privacyPolicy": "Məxfilik siyasəti",
+    "cookiePolicy": "Kuki siyasəti"
+  },
+  "preferences": {
+    "title": "Kuki seçimləri",
+    "text": "Hansı könüllü kateqoriyalara icazə verdiyinizi seçin. Zəruri kukiləri söndürmək olmaz, çünki onlarsız sayt işləmir.",
+    "save": "Seçimləri yadda saxla",
+    "acceptAll": "Hamısını qəbul et",
+    "rejectAll": "Hamısını rədd et",
+    "close": "Bağla",
+    "alwaysActive": "Həmişə aktiv",
+    "on": "Aktiv",
+    "off": "Deaktiv"
+  },
+  "categories": {
+    "necessary": { "title": "Zəruri", "description": "Təhlükəsizlik, yükün paylanması və bu razılıq seçiminin yadda saxlanması kimi əsas funksiyalar üçün lazımdır." },
+    "functional": { "title": "Funksional", "description": "Dil və ya region kimi seçimləri yadda saxlayır və daxili funksiyaları aktiv edir." },
+    "analytics": { "title": "Analitik", "description": "Saytı təkmilləşdirə bilməyimiz üçün onun necə istifadə olunduğunu anlamağa kömək edir." },
+    "marketing": { "title": "Marketinq", "description": "Müxtəlif saytlarda reklamları ölçmək və fərdiləşdirmək üçün istifadə olunur." }
+  },
+  "reopen": "Kuki seçimləri",
+  "blockedContent": "“{category}” kateqoriyasına icazə verənə qədər bu məzmun bloklanıb.",
+  "allowContent": "İcazə ver və göstər"
+}

@@ -1,0 +1,31 @@
+{
+  "banner": {
+    "title": "Muna mutunta sirrinka",
+    "text": "Muna amfani da kuki da makamantan fasahohi. Kuki masu muhimmanci suna sa shafin yanar gizo ya yi aiki. Da izininka, muna kuma amfani da kuki na zaɓi don fasaloli, nazari da talla. Za ka iya karɓar duka, ƙin duka, ko zaɓar kowane rukuni, kuma ka canza ra'ayinka a kowane lokaci.",
+    "acceptAll": "Karɓi duka",
+    "rejectAll": "Ƙi duka",
+    "customize": "Keɓance",
+    "privacyPolicy": "Manufar sirri",
+    "cookiePolicy": "Manufar kuki"
+  },
+  "preferences": {
+    "title": "Zaɓin kuki",
+    "text": "Zaɓi rukunan zaɓi da ka yarda da su. Ba za a iya kashe kuki masu muhimmanci ba domin shafin ba ya aiki idan babu su.",
+    "save": "Ajiye zaɓi",
+    "acceptAll": "Karɓi duka",
+    "rejectAll": "Ƙi duka",
+    "close": "Rufe",
+    "alwaysActive": "Yana aiki koyaushe",
+    "on": "A kunne",
+    "off": "A kashe"
+  },
+  "categories": {
+    "necessary": { "title": "Masu muhimmanci", "description": "Ana buƙatarsa don ayyukan asali kamar tsaro, rarraba nauyi da tunawa da zaɓin izinin nan." },
+    "functional": { "title": "Na aiki", "description": "Yana tuna zaɓi kamar harshe ko yanki kuma yana kunna fasalolin da aka saka." },
+    "analytics": { "title": "Nazari", "description": "Yana taimaka mana mu fahimci yadda ake amfani da shafin domin mu inganta shi." },
+    "marketing": { "title": "Talla", "description": "Ana amfani da shi don auna talla da keɓance ta a shafuka daban-daban." }
+  },
+  "reopen": "Zaɓin kuki",
+  "blockedContent": "An toshe wannan abun ciki har sai ka yarda da rukunin \"{category}\".",
+  "allowContent": "Yarda kuma nuna"
+}

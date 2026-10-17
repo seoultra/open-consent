@@ -1,0 +1,31 @@
+{
+  "banner": {
+    "title": "Vertiname jūsų privatumą",
+    "text": "Naudojame slapukus ir panašias technologijas. Būtinieji slapukai užtikrina svetainės veikimą. Gavę jūsų leidimą, taip pat naudojame pasirenkamuosius slapukus funkcijoms, analitikai ir rinkodarai. Galite sutikti su visais, atmesti visus arba rinktis pagal kategorijas ir bet kada pakeisti sprendimą.",
+    "acceptAll": "Sutikti su visais",
+    "rejectAll": "Atmesti visus",
+    "customize": "Tinkinti",
+    "privacyPolicy": "Privatumo politika",
+    "cookiePolicy": "Slapukų politika"
+  },
+  "preferences": {
+    "title": "Slapukų nuostatos",
+    "text": "Pasirinkite, kurias pasirenkamąsias kategorijas leidžiate. Būtinųjų slapukų išjungti negalima, nes be jų svetainė neveiktų.",
+    "save": "Išsaugoti nuostatas",
+    "acceptAll": "Sutikti su visais",
+    "rejectAll": "Atmesti visus",
+    "close": "Uždaryti",
+    "alwaysActive": "Visada aktyvūs",
+    "on": "Įjungta",
+    "off": "Išjungta"
+  },
+  "categories": {
+    "necessary": { "title": "Būtinieji", "description": "Reikalingi pagrindinėms funkcijoms, tokioms kaip saugumas, apkrovos paskirstymas ir šio sutikimo pasirinkimo įsiminimas." },
+    "functional": { "title": "Funkciniai", "description": "Įsimena nuostatas, pavyzdžiui, kalbą ar regioną, ir įgalina įterptąsias funkcijas." },
+    "analytics": { "title": "Analitiniai", "description": "Padeda suprasti, kaip naudojamasi svetaine, kad galėtume ją tobulinti." },
+    "marketing": { "title": "Rinkodaros", "description": "Naudojami reklamai matuoti ir personalizuoti įvairiose svetainėse." }
+  },
+  "reopen": "Slapukų nuostatos",
+  "blockedContent": "Šis turinys užblokuotas, kol neleisite kategorijos „{category}“.",
+  "allowContent": "Leisti ir rodyti"
+}

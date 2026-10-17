@@ -1,0 +1,31 @@
+{
+  "banner": {
+    "title": "Rydym yn gwerthfawrogi eich preifatrwydd",
+    "text": "Rydym yn defnyddio cwcis a thechnolegau tebyg. Mae cwcis angenrheidiol yn cadw'r wefan i weithio. Gyda'ch caniatâd, rydym hefyd yn defnyddio cwcis dewisol ar gyfer nodweddion, dadansoddeg a marchnata. Gallwch dderbyn pob un, gwrthod pob un, neu ddewis fesul categori, a newid eich meddwl ar unrhyw adeg.",
+    "acceptAll": "Derbyn y cyfan",
+    "rejectAll": "Gwrthod y cyfan",
+    "customize": "Addasu",
+    "privacyPolicy": "Polisi preifatrwydd",
+    "cookiePolicy": "Polisi cwcis"
+  },
+  "preferences": {
+    "title": "Dewisiadau cwcis",
+    "text": "Dewiswch pa gategorïau dewisol rydych yn eu caniatáu. Ni ellir diffodd cwcis angenrheidiol oherwydd nid yw'r wefan yn gweithio hebddynt.",
+    "save": "Cadw'r dewisiadau",
+    "acceptAll": "Derbyn y cyfan",
+    "rejectAll": "Gwrthod y cyfan",
+    "close": "Cau",
+    "alwaysActive": "Bob amser yn weithredol",
+    "on": "Ymlaen",
+    "off": "I ffwrdd"
+  },
+  "categories": {
+    "necessary": { "title": "Angenrheidiol", "description": "Ei angen ar gyfer swyddogaethau sylfaenol megis diogelwch, cydbwyso llwyth a chofio'r dewis caniatâd hwn." },
+    "functional": { "title": "Swyddogaethol", "description": "Cofio dewisiadau megis iaith neu ranbarth a galluogi nodweddion wedi'u mewnosod." },
+    "analytics": { "title": "Dadansoddeg", "description": "Ein helpu i ddeall sut mae'r wefan yn cael ei defnyddio fel y gallwn ei gwella." },
+    "marketing": { "title": "Marchnata", "description": "Fe'i defnyddir i fesur a phersonoli hysbysebu ar draws gwefannau." }
+  },
+  "reopen": "Dewisiadau cwcis",
+  "blockedContent": "Mae'r cynnwys hwn wedi'i rwystro nes i chi ganiatáu'r categori \"{category}\".",
+  "allowContent": "Caniatáu a dangos"
+}

@@ -1,0 +1,31 @@
+{
+  "banner": {
+    "title": "Manaja ny fiainanao manokana izahay",
+    "text": "Mampiasa cookies sy teknolojia mitovy izahay. Ny cookies ilaina dia mitazona ny tranonkala hiasa. Raha mahazo alalana izahay dia mampiasa cookies safidy ho an'ny endri-javatra, ny fanadihadiana ary ny marketing. Azonao ekena daholo, lavina daholo, na fidina isaky ny sokajy, ary azonao ovaina na oviana na oviana ny hevitrao.",
+    "acceptAll": "Ekeo daholo",
+    "rejectAll": "Laviro daholo",
+    "customize": "Amboary",
+    "privacyPolicy": "Politikan'ny fiainana manokana",
+    "cookiePolicy": "Politikan'ny cookies"
+  },
+  "preferences": {
+    "title": "Safidin'ny cookies",
+    "text": "Fidio ny sokajy safidy ekenao. Tsy azo atsahatra ny cookies ilaina satria tsy mandeha ny tranonkala raha tsy misy azy.",
+    "save": "Tehirizo ny safidy",
+    "acceptAll": "Ekeo daholo",
+    "rejectAll": "Laviro daholo",
+    "close": "Akatony",
+    "alwaysActive": "Miasa foana",
+    "on": "Mandeha",
+    "off": "Tsy mandeha"
+  },
+  "categories": {
+    "necessary": { "title": "Ilaina", "description": "Ilaina amin'ny asa fototra toy ny fiarovana, ny fizarana enta-mavesatra ary ny fahatsiarovana ity safidy fanekena ity." },
+    "functional": { "title": "Miasa", "description": "Mitadidy ny safidy toy ny fiteny na faritra ary mamela ny endri-javatra tafiditra." },
+    "analytics": { "title": "Fanadihadiana", "description": "Manampy anay hahatakatra ny fampiasana ny tranonkala mba hanatsarana azy." },
+    "marketing": { "title": "Marketing", "description": "Ampiasaina handrefesana sy hanaovana manokana ny dokambarotra amin'ny tranonkala maro." }
+  },
+  "reopen": "Safidin'ny cookies",
+  "blockedContent": "Voasakana ity votoaty ity mandra-pekenao ny sokajy \"{category}\".",
+  "allowContent": "Ekeo ary asehoy"
+}

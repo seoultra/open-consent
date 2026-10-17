@@ -1,0 +1,31 @@
+{
+  "banner": {
+    "title": "Tá meas againn ar do phríobháideachas",
+    "text": "Úsáidimid fianáin agus teicneolaíochtaí comhchosúla. Coinníonn fianáin riachtanacha an suíomh ag obair. Le do chead, úsáidimid fianáin roghnacha freisin le haghaidh gnéithe, anailísíochta agus margaíochta. Is féidir leat glacadh leo go léir, iad go léir a dhiúltú, nó roghnú de réir catagóire, agus d’intinn a athrú am ar bith.",
+    "acceptAll": "Glac leo go léir",
+    "rejectAll": "Diúltaigh dóibh go léir",
+    "customize": "Saincheap",
+    "privacyPolicy": "Polasaí príobháideachais",
+    "cookiePolicy": "Polasaí fianán"
+  },
+  "preferences": {
+    "title": "Roghanna fianán",
+    "text": "Roghnaigh na catagóirí roghnacha a cheadaíonn tú. Ní féidir fianáin riachtanacha a mhúchadh toisc nach n-oibríonn an suíomh gan iad.",
+    "save": "Sábháil na roghanna",
+    "acceptAll": "Glac leo go léir",
+    "rejectAll": "Diúltaigh dóibh go léir",
+    "close": "Dún",
+    "alwaysActive": "Gníomhach i gcónaí",
+    "on": "Air",
+    "off": "As"
+  },
+  "categories": {
+    "necessary": { "title": "Riachtanach", "description": "Riachtanach le haghaidh bunfheidhmeanna ar nós slándála, cothromaithe ualaigh agus an rogha toilithe seo a mheabhrú." },
+    "functional": { "title": "Feidhmiúil", "description": "Cuimhnítear roghanna ar nós teanga nó réigiúin agus cuirtear gnéithe leabaithe ar fáil." },
+    "analytics": { "title": "Anailísíocht", "description": "Cabhraíonn siad linn tuiscint a fháil ar conas a úsáidtear an suíomh ionas gur féidir linn é a fheabhsú." },
+    "marketing": { "title": "Margaíocht", "description": "Úsáidtear iad chun fógraíocht a thomhas agus a phearsanú thar suíomhanna gréasáin." }
+  },
+  "reopen": "Roghanna fianán",
+  "blockedContent": "Tá an t-ábhar seo blocáilte go dtí go gceadaíonn tú an chatagóir \"{category}\".",
+  "allowContent": "Ceadaigh agus taispeáin"
+}

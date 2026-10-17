@@ -1,0 +1,31 @@
+{
+  "banner": {
+    "title": "Mēs novērtējam jūsu privātumu",
+    "text": "Mēs izmantojam sīkfailus un līdzīgas tehnoloģijas. Nepieciešamie sīkfaili nodrošina vietnes darbību. Ar jūsu atļauju mēs izmantojam arī izvēles sīkfailus funkcijām, analītikai un mārketingam. Varat piekrist visiem, noraidīt visus vai izvēlēties pa kategorijām, kā arī jebkurā laikā mainīt savu lēmumu.",
+    "acceptAll": "Pieņemt visus",
+    "rejectAll": "Noraidīt visus",
+    "customize": "Pielāgot",
+    "privacyPolicy": "Privātuma politika",
+    "cookiePolicy": "Sīkfailu politika"
+  },
+  "preferences": {
+    "title": "Sīkfailu preferences",
+    "text": "Izvēlieties, kuras izvēles kategorijas atļaujat. Nepieciešamos sīkfailus nevar izslēgt, jo bez tiem vietne nedarbojas.",
+    "save": "Saglabāt preferences",
+    "acceptAll": "Pieņemt visus",
+    "rejectAll": "Noraidīt visus",
+    "close": "Aizvērt",
+    "alwaysActive": "Vienmēr aktīvi",
+    "on": "Ieslēgts",
+    "off": "Izslēgts"
+  },
+  "categories": {
+    "necessary": { "title": "Nepieciešamie", "description": "Nepieciešami pamatfunkcijām, piemēram, drošībai, slodzes līdzsvarošanai un šīs piekrišanas izvēles atcerēšanās." },
+    "functional": { "title": "Funkcionālie", "description": "Atceras preferences, piemēram, valodu vai reģionu, un nodrošina iegultās funkcijas." },
+    "analytics": { "title": "Analītikas", "description": "Palīdz mums saprast, kā vietne tiek izmantota, lai mēs varētu to uzlabot." },
+    "marketing": { "title": "Mārketinga", "description": "Izmanto reklāmas mērīšanai un personalizēšanai dažādās vietnēs." }
+  },
+  "reopen": "Sīkfailu preferences",
+  "blockedContent": "Šis saturs ir bloķēts, līdz atļausiet kategoriju “{category}”.",
+  "allowContent": "Atļaut un parādīt"
+}

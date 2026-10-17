@@ -2,7 +2,10 @@ import { TRANSLATIONS } from './generated/defaults.js';
 import { deepMerge } from './util.js';
 
 /** Locale aliases → translation file codes (same table as PHP Translations::ALIASES). */
-export const LANG_ALIASES = { 'zh-hk': 'yue', 'zh-mo': 'yue', fil: 'tl', 'es-mx': 'es', in: 'id', zsm: 'ms' };
+export const LANG_ALIASES = {
+  'zh-hk': 'yue', 'zh-mo': 'yue', 'zh-hant': 'zh-tw', 'zh-hans': 'zh', 'zh-cn': 'zh', 'zh-sg': 'zh',
+  fil: 'tl', 'es-mx': 'es', in: 'id', zsm: 'ms', no: 'nb', iw: 'he', ji: 'yi', ku: 'kmr', 'pt-pt': 'pt', mo: 'ro'
+};
 
 /**
  * Resolve 'auto' (or a code) to an available language: built-in ones plus any

@@ -3,7 +3,7 @@
  * Plugin Name:       OpenConsent
  * Plugin URI:        https://seoultra.id/plugins/open-consent/
  * Description:       Free, open-source cookie consent with real script blocking and Google Consent Mode v2. No account, no API key, no remote calls.
- * Version:           0.1.0
+ * Version:           0.2.0
  * Requires at least: 6.2
  * Requires PHP:      8.1
  * Author:            SEOULTRA
@@ -18,7 +18,7 @@ if ( ! defined( 'ABSPATH' ) ) {
 	exit;
 }
 
-define( 'OPEN_CONSENT_VERSION', '0.1.0' );
+define( 'OPEN_CONSENT_VERSION', '0.2.0' );
 define( 'OPEN_CONSENT_FILE', __FILE__ );
 define( 'OPEN_CONSENT_DIR', plugin_dir_path( __FILE__ ) );
 define( 'OPEN_CONSENT_URL', plugin_dir_url( __FILE__ ) );

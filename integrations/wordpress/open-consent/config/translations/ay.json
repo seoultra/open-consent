@@ -1,0 +1,31 @@
+{
+  "banner": {
+    "title": "Jumana privacidadamaru jach'achtanxa",
+    "text": "Nanakax cookienaka ukhamarak mä kipka tecnologianaka apnaqtanxa. Wakisiri cookienakax web sitio irnaqayi. Jumana ayanuqt'asiñamampix, opcional cookienaka apnaqtanxa funcionanaka, analitica ukhamarak marketing lurañataki. Jumax taqpacha katuqsna, taqpacha jan katuqsna, jan ukax sapa categoria ajllisna, ukhamarak kunapachas amuyt'amaru mayjt'ayasna.",
+    "acceptAll": "Taqpach katuqaña",
+    "rejectAll": "Taqpach jan katuqaña",
+    "customize": "Kikpa lurañ",
+    "privacyPolicy": "Privacidad kamachi",
+    "cookiePolicy": "Cookie kamachi"
+  },
+  "preferences": {
+    "title": "Cookie ajlliñanaka",
+    "text": "Kuna opcional categorianakas jumax ch'amanchasma ajllita. Wakisiri cookienakax jan jist'arañjamawa, jan ukanakax web sitiox janiw irnaqkaspati.",
+    "save": "Ajlliñanaka imaña",
+    "acceptAll": "Taqpach katuqaña",
+    "rejectAll": "Taqpach jan katuqaña",
+    "close": "Jist'araña",
+    "alwaysActive": "Sapa kuti irnaqaski",
+    "on": "Irnaqaski",
+    "off": "Jan irnaqaski"
+  },
+  "categories": {
+    "necessary": { "title": "Wakisiri", "description": "Nayrïr irnaqäwinakataki wakisiri, seguridad, ch'amanaka jaljaña ukhamarak aka katuqaña ajlliña amtañataki." },
+    "functional": { "title": "Funcional", "description": "Ajlliñanaka amtasi, arunaka jan ukax markanaka, ukhamarak mantatäki funcionanaka irnaqayi." },
+    "analytics": { "title": "Analitica", "description": "Nanakar yanapt'i web sitio kunjams apnaqatäki amuyañataki, ukhamat sumaptayañataki." },
+    "marketing": { "title": "Marketing", "description": "Walja web sitionakan yatiyäwinaka tupuñataki ukhamarak kikpa lurañataki apnaqatawa." }
+  },
+  "reopen": "Cookie ajlliñanaka",
+  "blockedContent": "Aka contenidox jark'ataw \"{category}\" categoria ch'amanchañkama.",
+  "allowContent": "Ch'amanchaña ukhamarak uñacht'ayaña"
+}

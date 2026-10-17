@@ -1,0 +1,31 @@
+{
+  "banner": {
+    "title": "Við virðum friðhelgi þína",
+    "text": "Við notum vafrakökur og áþekka tækni. Nauðsynlegar vafrakökur tryggja að vefurinn virki. Með þínu samþykki notum við einnig valfrjálsar vafrakökur fyrir virkni, greiningar og markaðssetningu. Þú getur samþykkt allar, hafnað öllum eða valið eftir flokkum og skipt um skoðun hvenær sem er.",
+    "acceptAll": "Samþykkja allar",
+    "rejectAll": "Hafna öllum",
+    "customize": "Sérsníða",
+    "privacyPolicy": "Persónuverndarstefna",
+    "cookiePolicy": "Stefna um vafrakökur"
+  },
+  "preferences": {
+    "title": "Stillingar vafrakaka",
+    "text": "Veldu hvaða valfrjálsu flokka þú leyfir. Ekki er hægt að slökkva á nauðsynlegum vafrakökum því vefurinn virkar ekki án þeirra.",
+    "save": "Vista stillingar",
+    "acceptAll": "Samþykkja allar",
+    "rejectAll": "Hafna öllum",
+    "close": "Loka",
+    "alwaysActive": "Alltaf virkar",
+    "on": "Kveikt",
+    "off": "Slökkt"
+  },
+  "categories": {
+    "necessary": { "title": "Nauðsynlegar", "description": "Nauðsynlegar fyrir grunnvirkni eins og öryggi, álagsjöfnun og til að muna val þitt um samþykki." },
+    "functional": { "title": "Virkni", "description": "Muna stillingar eins og tungumál eða svæði og gera innbyggða virkni mögulega." },
+    "analytics": { "title": "Greiningar", "description": "Hjálpa okkur að skilja hvernig vefurinn er notaður svo við getum bætt hann." },
+    "marketing": { "title": "Markaðssetning", "description": "Notaðar til að mæla og sérsníða auglýsingar á milli vefsvæða." }
+  },
+  "reopen": "Stillingar vafrakaka",
+  "blockedContent": "Þetta efni er lokað þar til þú leyfir flokkinn „{category}“.",
+  "allowContent": "Leyfa og sýna"
+}

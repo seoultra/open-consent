@@ -1,0 +1,31 @@
+{
+  "banner": {
+    "title": "Fontos számunkra a magánszférája",
+    "text": "Sütiket és hasonló technológiákat használunk. A szükséges sütik biztosítják az oldal működését. Az Ön hozzájárulásával választható sütiket is használunk funkciókhoz, elemzéshez és marketinghez. Elfogadhatja az összeset, elutasíthatja az összeset, vagy kategóriánként dönthet, és döntését bármikor megváltoztathatja.",
+    "acceptAll": "Összes elfogadása",
+    "rejectAll": "Összes elutasítása",
+    "customize": "Testreszabás",
+    "privacyPolicy": "Adatvédelmi tájékoztató",
+    "cookiePolicy": "Süti-tájékoztató"
+  },
+  "preferences": {
+    "title": "Sütibeállítások",
+    "text": "Válassza ki, mely választható kategóriákat engedélyezi. A szükséges sütik nem kapcsolhatók ki, mert az oldal nélkülük nem működik.",
+    "save": "Beállítások mentése",
+    "acceptAll": "Összes elfogadása",
+    "rejectAll": "Összes elutasítása",
+    "close": "Bezárás",
+    "alwaysActive": "Mindig aktív",
+    "on": "Be",
+    "off": "Ki"
+  },
+  "categories": {
+    "necessary": { "title": "Szükséges", "description": "Az alapvető funkciókhoz szükségesek, például a biztonsághoz, a terheléselosztáshoz és a hozzájárulási döntés megjegyzéséhez." },
+    "functional": { "title": "Funkcionális", "description": "Megjegyzik a beállításokat, például a nyelvet vagy a régiót, és lehetővé teszik a beágyazott funkciókat." },
+    "analytics": { "title": "Analitikai", "description": "Segítenek megérteni, hogyan használják az oldalt, hogy fejleszthessük." },
+    "marketing": { "title": "Marketing", "description": "A hirdetések weboldalakon átívelő mérésére és személyre szabására szolgálnak." }
+  },
+  "reopen": "Sütibeállítások",
+  "blockedContent": "Ez a tartalom le van tiltva, amíg nem engedélyezi a(z) „{category}” kategóriát.",
+  "allowContent": "Engedélyezés és megjelenítés"
+}

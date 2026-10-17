@@ -1,0 +1,31 @@
+{
+  "banner": {
+    "title": "我們重視您的隱私",
+    "text": "我們使用 Cookie 及類似技術。必要的 Cookie 可讓網站正常運作。經過您的同意，我們也會使用選用的 Cookie 來提供附加功能、進行分析與行銷。您可以全部接受、全部拒絕，或依類別自行選擇，並隨時變更決定。",
+    "acceptAll": "全部接受",
+    "rejectAll": "全部拒絕",
+    "customize": "自訂",
+    "privacyPolicy": "隱私權政策",
+    "cookiePolicy": "Cookie 政策"
+  },
+  "preferences": {
+    "title": "Cookie 偏好設定",
+    "text": "請選擇您允許的選用類別。必要的 Cookie 無法關閉，因為沒有它們網站就無法運作。",
+    "save": "儲存偏好設定",
+    "acceptAll": "全部接受",
+    "rejectAll": "全部拒絕",
+    "close": "關閉",
+    "alwaysActive": "永遠啟用",
+    "on": "開啟",
+    "off": "關閉"
+  },
+  "categories": {
+    "necessary": { "title": "必要", "description": "用於安全性、負載平衡及記住您的同意選擇等基本功能。" },
+    "functional": { "title": "功能", "description": "記住語言或地區等偏好設定，並啟用內嵌功能。" },
+    "analytics": { "title": "分析", "description": "協助我們了解網站的使用情況，以便持續改進。" },
+    "marketing": { "title": "行銷", "description": "用於衡量並個人化各網站上的廣告。" }
+  },
+  "reopen": "Cookie 偏好設定",
+  "blockedContent": "在您允許「{category}」類別之前，此內容會被封鎖。",
+  "allowContent": "允許並顯示"
+}

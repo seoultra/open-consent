@@ -1,0 +1,31 @@
+{
+  "banner": {
+    "title": "Respectam vòstra vida privada",
+    "text": "Utilizam de cookies e de tecnologias similaras. Los cookies necessaris fan foncionar lo site. Amb vòstra autorizacion, utilizam tanben de cookies facultatius per de foncionalitats, de mesuras d'audiéncia e de marketing. Podètz tot acceptar, tot refusar, o causir per categoria, e cambiar d'avís en tot moment.",
+    "acceptAll": "Tot acceptar",
+    "rejectAll": "Tot refusar",
+    "customize": "Personalizar",
+    "privacyPolicy": "Politica de confidencialitat",
+    "cookiePolicy": "Politica dels cookies"
+  },
+  "preferences": {
+    "title": "Preferéncias dels cookies",
+    "text": "Causissètz las categorias facultativas que autorizatz. Los cookies necessaris pòdon pas èsser desactivats perque lo site fonciona pas sens eles.",
+    "save": "Enregistrar las preferéncias",
+    "acceptAll": "Tot acceptar",
+    "rejectAll": "Tot refusar",
+    "close": "Tampar",
+    "alwaysActive": "Totjorn actius",
+    "on": "Activat",
+    "off": "Desactivat"
+  },
+  "categories": {
+    "necessary": { "title": "Necessaris", "description": "Requesits per las foncions de basa coma la seguretat, l'equilibratge de la carga e la memorizacion d'aquesta causida de consentiment." },
+    "functional": { "title": "Foncionals", "description": "Se remembran de preferéncias coma la lenga o la region e activan las foncionalitats integradas." },
+    "analytics": { "title": "Analitics", "description": "Nos ajudan a comprene cossí lo site es utilizat per l'melhorar." },
+    "marketing": { "title": "Marketing", "description": "Utilizats per mesurar e personalizar la publicitat a travèrs los sites web." }
+  },
+  "reopen": "Preferéncias dels cookies",
+  "blockedContent": "Aqueste contengut es blocat fins qu'autorizetz la categoria \"{category}\".",
+  "allowContent": "Autorizar e afichar"
+}

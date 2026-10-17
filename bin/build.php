@@ -67,7 +67,7 @@ $translations = [];
 $enKeys = null;
 foreach (glob("$root/config/translations/*.json") ?: [] as $f) {
     $code = basename($f, '.json');
-    if (!preg_match('/^[a-z]{2,3}$/', $code)) fail("translation file name must be a language code: $code");
+    if (!preg_match('/^[a-z]{2,3}(-[a-z]{2,4})?$/', $code)) fail("translation file name must be a lowercase language code (e.g. de, pt-br): $code");
     $data = readJson($f);
     $keys = keyPaths($data);
     if ($enKeys === null) $enKeys = keyPaths(readJson("$root/config/translations/en.json"));

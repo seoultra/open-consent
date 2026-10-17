@@ -1,0 +1,31 @@
+{
+  "banner": {
+    "title": "Doujet e vez gant omp ho buhez prevez",
+    "text": "Implijout a reomp toupinoù (cookies) ha teknologiezhioù heñvel. An toupinoù ret a laka al lec'hienn da vont en-dro. Gant ho aotre, e implijomp ivez toupinoù diret evit perzhioù, dielfennadurioù ha marketing. Gallout a rit degemer pep tra, nac'hañ pep tra, pe choaz dre rummad, ha cheñch ho soñj pa vern pegoulz.",
+    "acceptAll": "Degemer pep tra",
+    "rejectAll": "Nac'hañ pep tra",
+    "customize": "Personelaat",
+    "privacyPolicy": "Politikerezh buhez prevez",
+    "cookiePolicy": "Politikerezh an toupinoù"
+  },
+  "preferences": {
+    "title": "Dibaboù an toupinoù",
+    "text": "Choazit pe rummadoù diret a aotreit. An toupinoù ret n'haller ket o lazhañ rak al lec'hienn ne za ket en-dro hep outo.",
+    "save": "Enrollañ an dibaboù",
+    "acceptAll": "Degemer pep tra",
+    "rejectAll": "Nac'hañ pep tra",
+    "close": "Serriñ",
+    "alwaysActive": "Gweredekaet bepred",
+    "on": "Enaouet",
+    "off": "Lazhet"
+  },
+  "categories": {
+    "necessary": { "title": "Ret", "description": "Ret evit ar mont-en-dro diazez evel ar surentez, ar rannadur karg hag derc'hel soñj eus ho tibab asant." },
+    "functional": { "title": "Arc'hwelek", "description": "Derc'hel soñj eus an dibaboù evel ar yezh pe ar vro ha gweredekaat ar perzhioù enframmet." },
+    "analytics": { "title": "Dielfennadurioù", "description": "Skoazellañ a reont ac'hanomp da gompren penaos e vez implijet al lec'hienn evit gallout he gwellaat." },
+    "marketing": { "title": "Marketing", "description": "Implijet evit muzuliañ ha personelaat ar bruderezh dre al lec'hiennoù web." }
+  },
+  "reopen": "Dibaboù an toupinoù",
+  "blockedContent": "Stanket eo an endalc'h-mañ betek ma aotreot ar rummad \"{category}\".",
+  "allowContent": "Aotren ha diskouez"
+}

@@ -17,7 +17,10 @@ Honest list of what OpenConsent does **not** do.
 - **IAB TCF v2.2 is not implemented**, so ad networks that require a TCF string will not
   receive one.
 - **Hosted dashboard not implemented**; the config API serves hand-edited site files.
-- **Translations:** English and Indonesian built in; everything else via `texts`.
+- **Translations:** 125 widget languages. English and Indonesian are compiled into the bundle;
+  the other 123 ship as JSON and are passed via `texts` (the WordPress plugin and `Translations::textsFor()`
+  do this automatically). They are machine-assisted and not yet reviewed by native speakers — lower-resource
+  languages (e.g. Chuvash, Tibetan, Tongan, Quechua, Aymara, Tigrinya, Dhivehi) most need review.
 - **Toolchain:** the JS build and tests run without Node (PHP build + Chromium via
   Python Playwright). ESLint/Prettier/Vitest are not part of the pipeline; the bundle is
   not minified (≈22 KB gzip).

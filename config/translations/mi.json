@@ -1,0 +1,31 @@
+{
+  "banner": {
+    "title": "E whakamana ana mātou i tō matatapu",
+    "text": "Ka whakamahi mātou i ngā cookie me ngā hangarau pēnei. Ka whakahaere ngā cookie e hiahiatia ana i te pae. Mā tō whakaaetanga, ka whakamahi hoki mātou i ngā cookie kōwhiri mō ngā āhuatanga, ngā tātaritanga me te mākete. Ka taea e koe te whakaae ki te katoa, te whakaparahako ki te katoa, te kōwhiri rānei ia kāwai, ā, te huri i tō whakaaro i ngā wā katoa.",
+    "acceptAll": "Whakaae ki te katoa",
+    "rejectAll": "Whakahē ki te katoa",
+    "customize": "Whakarite",
+    "privacyPolicy": "Kaupapahere matatapu",
+    "cookiePolicy": "Kaupapahere cookie"
+  },
+  "preferences": {
+    "title": "Ngā kōwhiringa cookie",
+    "text": "Kōwhiria ngā kāwai kōwhiri e whakaaetia ana e koe. Kāore e taea te whakaweto i ngā cookie e hiahiatia ana nā te mea kāore te pae e mahi mēnā kāore ērā.",
+    "save": "Tiakina ngā kōwhiringa",
+    "acceptAll": "Whakaae ki te katoa",
+    "rejectAll": "Whakahē ki te katoa",
+    "close": "Katia",
+    "alwaysActive": "Kei te mahi i ngā wā katoa",
+    "on": "Hohe",
+    "off": "Weto"
+  },
+  "categories": {
+    "necessary": { "title": "E hiahiatia ana", "description": "E hiahiatia ana mō ngā mahi taketake pēnei i te haumarutanga, te tohatoha kawenga me te maumahara ki tēnei kōwhiringa whakaaetanga." },
+    "functional": { "title": "Mahi", "description": "Ka maumahara ki ngā kōwhiringa pēnei i te reo, te rohe rānei, ā, ka whakahohe i ngā āhuatanga tāmau." },
+    "analytics": { "title": "Tātaritanga", "description": "Ka āwhina i a mātou ki te mārama ki te whakamahinga o te pae kia pai ake ai." },
+    "marketing": { "title": "Mākete", "description": "Ka whakamahia hei ine me te whakatau i ngā panuku pānui puta noa i ngā pae paetukutuku." }
+  },
+  "reopen": "Ngā kōwhiringa cookie",
+  "blockedContent": "Kua puru tēnei ihirangi kia tae ki te wā e whakaaetia ai e koe te kāwai \"{category}\".",
+  "allowContent": "Whakaae me te whakaatu"
+}

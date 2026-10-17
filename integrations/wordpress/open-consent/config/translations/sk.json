@@ -1,0 +1,31 @@
+{
+  "banner": {
+    "title": "Vážime si vaše súkromie",
+    "text": "Používame súbory cookie a podobné technológie. Nevyhnutné súbory cookie zabezpečujú fungovanie stránky. S vaším súhlasom používame aj voliteľné súbory cookie na funkcie, analytiku a marketing. Môžete prijať všetky, odmietnuť všetky alebo vybrať podľa kategórie a svoje rozhodnutie kedykoľvek zmeniť.",
+    "acceptAll": "Prijať všetky",
+    "rejectAll": "Odmietnuť všetky",
+    "customize": "Prispôsobiť",
+    "privacyPolicy": "Zásady ochrany osobných údajov",
+    "cookiePolicy": "Zásady používania súborov cookie"
+  },
+  "preferences": {
+    "title": "Nastavenia súborov cookie",
+    "text": "Vyberte, ktoré voliteľné kategórie povoľujete. Nevyhnutné súbory cookie nie je možné vypnúť, pretože stránka bez nich nefunguje.",
+    "save": "Uložiť nastavenia",
+    "acceptAll": "Prijať všetky",
+    "rejectAll": "Odmietnuť všetky",
+    "close": "Zavrieť",
+    "alwaysActive": "Vždy aktívne",
+    "on": "Zap.",
+    "off": "Vyp."
+  },
+  "categories": {
+    "necessary": { "title": "Nevyhnutné", "description": "Potrebné pre základné funkcie, ako sú bezpečnosť, rozloženie záťaže a zapamätanie vašej voľby súhlasu." },
+    "functional": { "title": "Funkčné", "description": "Zapamätajú si nastavenia, ako je jazyk alebo región, a umožňujú vložené funkcie." },
+    "analytics": { "title": "Analytické", "description": "Pomáhajú nám pochopiť, ako sa stránka používa, aby sme ju mohli zlepšovať." },
+    "marketing": { "title": "Marketingové", "description": "Používajú sa na meranie a personalizáciu reklamy na rôznych webových stránkach." }
+  },
+  "reopen": "Nastavenia súborov cookie",
+  "blockedContent": "Tento obsah je zablokovaný, kým nepovolíte kategóriu „{category}“.",
+  "allowContent": "Povoliť a zobraziť"
+}
